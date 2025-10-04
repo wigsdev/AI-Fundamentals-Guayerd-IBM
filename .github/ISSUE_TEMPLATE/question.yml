@@ -1,0 +1,58 @@
+name: ❓ Pregunta
+description: Hacer una pregunta sobre el curso o el material
+title: "[PREGUNTA] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de hacer una pregunta, por favor verifica:
+        1. Que no haya sido respondida en las issues cerradas
+        2. Que esté relacionada con el material del curso
+        
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Tu pregunta
+      description: Escribe tu pregunta de manera clara y concisa
+      placeholder: ¿Cómo puedo...?
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: sprint
+    attributes:
+      label: Sprint relacionado
+      description: ¿Con qué sprint está relacionada tu pregunta?
+      options:
+        - Sprint 1
+        - Sprint 2
+        - Sprint 3
+        - Sprint 4
+        - General
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: tema
+    attributes:
+      label: Tema
+      description: ¿Sobre qué tema es tu pregunta?
+      options:
+        - Python
+        - Machine Learning
+        - Estadística
+        - Power BI
+        - GitHub/Git
+        - Jupyter Notebooks
+        - Otro
+    validations:
+      required: true
+      
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Agrega cualquier información adicional que nos ayude a entender mejor tu pregunta
+    validations:
+      required: false

@@ -1,0 +1,63 @@
+name: 💡 Sugerencia de Mejora
+description: Sugerir una idea para este proyecto
+title: "[MEJORA] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tu sugerencia para mejorar el curso.
+        
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Tu sugerencia está relacionada con un problema?
+      description: Describe claramente cuál es el problema, si aplica.
+      placeholder: Me frustra cuando [...]
+    validations:
+      required: false
+      
+  - type: textarea
+    id: solucion
+    attributes:
+      label: Describe la solución que te gustaría
+      description: Una descripción clara y concisa de lo que quieres que suceda.
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: sprint
+    attributes:
+      label: Sprint relacionado
+      description: ¿Con qué sprint está relacionada tu sugerencia?
+      options:
+        - Sprint 1
+        - Sprint 2
+        - Sprint 3
+        - Sprint 4
+        - General
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de mejora
+      description: ¿Qué tipo de mejora estás sugiriendo?
+      options:
+        - Contenido del curso
+        - Ejercicios prácticos
+        - Documentación
+        - Estructura del repositorio
+        - Herramientas/Utilidades
+        - Otro
+    validations:
+      required: true
+      
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Agrega cualquier otro contexto o capturas de pantalla sobre tu sugerencia aquí.
+    validations:
+      required: false

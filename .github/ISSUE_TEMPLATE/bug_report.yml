@@ -1,0 +1,59 @@
+name: 🐛 Reporte de Error
+description: Crear un reporte para ayudarnos a mejorar
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de reportar un error.
+        
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Describe el error
+      description: Una descripción clara y concisa de qué es el error.
+      placeholder: Cuando intento ejecutar el notebook X, ocurre un error Y...
+    validations:
+      required: true
+      
+  - type: textarea
+    id: reproducir
+    attributes:
+      label: Pasos para reproducir
+      description: Pasos para reproducir el comportamiento
+      placeholder: |
+        1. Ir a '...'
+        2. Hacer clic en '....'
+        3. Ver error
+    validations:
+      required: true
+      
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamiento esperado
+      description: Una descripción clara y concisa de lo que esperabas que sucediera.
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: sprint
+    attributes:
+      label: Sprint
+      description: ¿En qué sprint ocurre el error?
+      options:
+        - Sprint 1
+        - Sprint 2
+        - Sprint 3
+        - Sprint 4
+    validations:
+      required: true
+      
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Agrega cualquier otro contexto sobre el problema aquí.
+    validations:
+      required: false

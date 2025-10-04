@@ -1,0 +1,19 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: AI Fundamentals – Guayerd x IBM
+description: Repositorio colaborativo de estudiantes del programa de Fundamentos de Inteligencia Artificial
+show_downloads: false
+
+# Navegación
+navigation:
+  - title: Inicio
+    url: /
+  - title: Sprint 1
+    url: /sprint1/
+  - title: Sprint 2
+    url: /sprint2/
+  - title: Sprint 3
+    url: /sprint3/
+  - title: Sprint 4
+    url: /sprint4/
