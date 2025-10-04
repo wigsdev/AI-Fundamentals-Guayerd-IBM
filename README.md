@@ -34,7 +34,7 @@ El programa está organizado en 4 sprints intensivos:
 
 - 🧠 Inteligencia Artificial y Pensamiento Computacional
 - 🐍 Programación Python y estructuras de datos
-- 📂 [Ver recursos](sprint1\README.md)
+- 📂 [Ver recursos](./sprint1/README.md)
 
 ### 📊 Sprint 2: Análisis (Octubre)
 > **Objetivo**: Análisis y visualización de datos
