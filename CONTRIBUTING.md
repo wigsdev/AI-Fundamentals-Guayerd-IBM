@@ -62,14 +62,6 @@ AI-Fundamentals-Guayerd-IBM/
 3. Realiza los cambios solicitados si es necesario
 4. Una vez aprobado, se fusionará con la rama principal
 
-## 📋 Checklist antes de enviar PR
-
-- [ ] Completé todas las celdas de respuesta en los notebooks
-- [ ] Ejecuté todas las celdas en orden y no hay errores
-- [ ] Los tests incluidos pasan correctamente
-- [ ] Los archivos están en la ubicación correcta dentro de mi carpeta de respuestas
-- [ ] No modifiqué las celdas de enunciados o tests
-
 ## 🙋‍♂️ Ayuda y Soporte
 
 - Revisa los [ejemplos](recursos/codigo/ejemplos/)
