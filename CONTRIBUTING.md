@@ -2,7 +2,7 @@
 
 ¡Gracias por contribuir al repositorio del curso de AI Fundamentals! Esta guía te ayudará a enviar tus soluciones y contribuciones de manera efectiva.
 
-## � Estructura del Repositorio
+## 🚀 Estructura del Repositorio
 
 ```
 AI-Fundamentals-Guayerd-IBM/
@@ -28,10 +28,13 @@ AI-Fundamentals-Guayerd-IBM/
 1. Haz fork del repositorio a tu cuenta de GitHub
 2. Clona tu fork localmente: `git clone https://github.com/[tu-usuario]/AI-Fundamentals-Guayerd-IBM.git`
 3. Añade el repositorio original como remoto: `git remote add upstream https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM.git`
+*(Este comando te permite descargar actualizaciones directamente desde el repositorio principal del curso).*
 
 ### 2. Creación de tu Solución
 1. Actualiza tu rama main: `git pull upstream main`
-2. Crea una rama con tu nombre de usuario: `git checkout -b respuesta-juan`
+*(Hacemos esto para asegurarnos de tener los últimos ejercicios y materiales antes de empezar a trabajar).*
+2. Crea una rama descriptiva: `git checkout -b soluciones-sprint1-juan`
+*(Usa un nombre de rama descriptivo, como `soluciones-sprint<numero>-<tu-nombre>`)*.
 3. Ubica la carpeta del sprint correspondiente
 4. Dentro de `soluciones/`, crea una carpeta con tu nombre de usuario (por ejemplo: `wigsdev`)
 5. Copia los notebooks de ejercicios y completa tus respuestas
@@ -43,8 +46,9 @@ AI-Fundamentals-Guayerd-IBM/
 - Asegúrate de que tus soluciones pasen los tests incluidos
 
 ### 4. Envío de tu Solución
-1. Haz commit con tus cambios: `git commit -m "Agregadas mis soluciones"`
-2. Sube tus cambios: `git push origin soluciones-wilmer`
+1. Haz commit con tus cambios: `git commit -m "feat(sprint1): Resolver ejercicios de la clase 3"`
+*(Intenta usar mensajes que describan qué sprint y clase estás entregando. ¡Esto ayuda mucho a los mentores!)*
+2. Sube tus cambios: `git push origin <nombre-de-tu-rama>`
 3. Crea un Pull Request desde GitHub
 4. Espera la revisión de los mentores
 
@@ -55,7 +59,7 @@ AI-Fundamentals-Guayerd-IBM/
 - Mantén un código limpio y bien documentado
 - Sigue las convenciones de nombres establecidas
 
-## � Proceso de Revisión
+## 👨‍🏫 Proceso de Revisión
 
 1. Los mentores revisarán tu código
 2. Puedes recibir sugerencias de mejora

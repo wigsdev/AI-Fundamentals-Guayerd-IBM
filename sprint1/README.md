@@ -8,7 +8,7 @@
 ### Clase 1 (8 de septiembre) - Introducción a la Inteligencia Artificial
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1Xw4tjA19CbZhB-rHn4Lz6ZVvTUny693F/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1POicXTZHnToTh0nQlSXFnSSDoxVVaEDN?usp=drive_link)
-- [📝 Ejercicios](./ejercicios/clase1)
+- 📝 Ejercicios
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
