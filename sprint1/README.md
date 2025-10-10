@@ -7,8 +7,9 @@
 
 ### Clase 1 (8 de septiembre) - Introducción a la Inteligencia Artificial
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1Xw4tjA19CbZhB-rHn4Lz6ZVvTUny693F/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
+- [📗 Ver Resúmen](./Resumen-Clase1.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1POicXTZHnToTh0nQlSXFnSSDoxVVaEDN?usp=drive_link)
-- 📝 Ejercicios
+- 📝 Ejercicios - *No disponible para esta clase*
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -24,6 +25,7 @@
 
 ### Clase 2 (15 de septiembre) - Fundamentos del Dato
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ocdOpCVwav-7px-Za4KQPBltZfhJk3I2/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
+- [📗 Ver Resúmen](./Resumen-Clase2.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1xQV6ruFWgP9cXcCPvZLcwMtqKWLvvgNc?usp=drive_link)
 - [📝 Ejercicios](./ejercicios/clase2)
 <details>
@@ -41,6 +43,7 @@
 
 ### Clase 3 (22 de septiembre) - Fundamentos de Python
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ayD8rPElciO0qKcUSzJQoWqutNQXajhX/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
+- [📗 Ver Resúmen](./Resumen-Clase3.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1K5nQKC4BKxcwJw3GDzTAYXADrlK0Nmku?usp=drive_link)
 - [📝 Ejercicios](./ejercicios/clase3)
 <details>
@@ -56,6 +59,7 @@
 
 ### Clase 4 (29 de septiembre) - Python Avanzado
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1CJV8pqj02WjuF2Kc5U_qJhin6JejjdR1/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
+- [📗 Ver Resúmen](./Resumen-Clase4.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1Cb5U8RUAhvVowARWuL8dNWhMS1sXoz1t?usp=drive_link)
 - [📝 Ejercicios](./ejercicios/clase4)
 <details>
@@ -63,6 +67,18 @@
 
 - Continuación de fundamentos de Python
 - Ejercicios prácticos
+</details>
+
+### Clase 5 (8 de octubre) - Copilot Chat y prompts
+- [📊 Ver Presentación](https://drive.google.com/file/d/1nhZqUtLtX5q-1-iZ9U4nkJmUmFSTXIge/view)
+- [📗 Ver Resúmen](./Resumen-Clase5.md)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1qipgpYVzMm6-6cMQB2zIsb3-tceEDJE9?usp=drive_link)
+- 📝 Ejercicios - *No disponible para esta clase*
+<details>
+<summary>Ver contenido detallado de la clase</summary>
+
+- Copilot Chat
+- Promting
 </details>
 
 ## 🎯 Objetivos del Sprint
