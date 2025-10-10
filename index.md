@@ -119,37 +119,37 @@ jupyter notebook estructura_de_datos.ipynb
 El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
 
 ### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
-- 📂 [Más información](./sprint1/README.md){:target="_blank"}
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1){:target="_blank"}
 
 ### 📊 Sprint 2: Análisis con Python (Octubre)
-- 📂 [Más información](./sprint2/README.md){:target="_blank"}
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2){:target="_blank"}
 
 ### 🤖 Sprint 3: Machine Learning (Noviembre)
-- 📂 [Más información](./sprint3/README.md){:target="_blank"}
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint3){:target="_blank"}
 
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
-- 📂 [Más información](./sprint4/README.md){:target="_blank"}
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint4){:target="_blank"}
 
 ### 🚀 Proyecto Integrador - Aurelion
 > Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
 **📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion
-**📁 Carpeta:** [Project/](./Project/){:target="_blank"}
-**📖 Documentación:** [Ver instrucciones completas](./Project/instrucciones.md){:target="_blank"}
+**📁 Carpeta:** [Project/](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project){:target="_blank"}
+**📖 Documentación:** [Ver instrucciones completas](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md){:target="_blank"}
 
 **🗂️ Archivos principales:**
-- [📄 Instrucciones](./Project/instrucciones.md){:target="_blank"}
-- [📚 Documentación](./Project/Documentación.md){:target="_blank"} 
-- [🐍 Código Python](./Project/programa.py){:target="_blank"}
-- [📝 Archivos de texto](./Project/textos.py){:target="_blank"}
+- [📄 Instrucciones](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md){:target="_blank"}
+- [📚 Documentación](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/Documentación.md){:target="_blank"} 
+- [🐍 Código Python](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/programa.py){:target="_blank"}
+- [📝 Archivos de texto](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/textos.py){:target="_blank"}
 
 **📊 Datos disponibles:**
 - Clientes, Productos, Ventas y Detalle de Ventas
-- [Ver carpeta de datos](./Project/Aurelion/){:target="_blank"}
+- [Ver carpeta de datos](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion){:target="_blank"}
 
 ## Cómo Contribuir
 
-¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra [Guía de Contribución](CONTRIBUTING.md){:target="_blank"}.
+¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra [Guía de Contribución](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/CONTRIBUTING.md){:target="_blank"}.
 
 ### Resumen rápido:
 1. Haz fork del repositorio
@@ -159,7 +159,7 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 
 ## Licencia e Información del Repositorio
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE){:target="_blank"} para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/LICENSE){:target="_blank"} para más detalles.
 
 Este repositorio es **educativo** y se realizó para que el contenido del curso esté más disponible.
 
