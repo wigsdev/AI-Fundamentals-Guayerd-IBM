@@ -1,13 +1,23 @@
 # AI Fundamentals – Guayerd x IBM 🧠🤖
 
-![Estado](https://img.shields.io/badge/Estado-En%20Progreso-yellow?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-1era%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
 
-> Repositorio colaborativo del programa **Fundamentos de Inteligencia Artificial**, desarrollado por **Guayerd** junto a **IBM**.
-> ⚠️ Esta es una iniciativa de estudiantes para aprendizaje colaborativo.
+¡Bienvenido al repositorio del curso de Fundamentos de Inteligencia Artificial! Este es un espacio colaborativo creado por y para estudiantes, con el apoyo de **Guayerd** e **IBM**. Aquí encontrarás todos los recursos que necesitas para tener éxito en el curso.
 
-## 📚 Sobre el Proyecto
+## Tabla de Contenidos
 
-Este repositorio contiene los materiales de estudio, ejercicios y soluciones del programa de Fundamentos de Inteligencia Artificial. Es un esfuerzo colaborativo de los estudiantes para facilitar el aprendizaje y la práctica.
+- [Sobre el Proyecto](#sobre-el-proyecto)
+- [Primeros Pasos](#primeros-pasos)
+- [Contenido del Curso](#contenido-del-curso)
+- [Proyecto Integrador](#proyecto-integrador)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Cómo Contribuir](#cómo-contribuir)
+- [Licencia](#licencia)
+- [Agradecimientos](#agradecimientos)
+
+## Sobre el Proyecto
+
+Este repositorio contiene los materiales de estudio, ejercicios y soluciones del programa de **Fundamentos de Inteligencia Artificial**. Es un esfuerzo colaborativo de los estudiantes para facilitar el aprendizaje y la práctica.
 
 ### Detalles del Curso
 
@@ -18,9 +28,18 @@ Este repositorio contiene los materiales de estudio, ejercicios y soluciones del
 ### Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4D4D4D?style=for-the-badge&logo=openai&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
 
 ### Recursos Esenciales
 
@@ -29,73 +48,88 @@ Este repositorio contiene los materiales de estudio, ejercicios y soluciones del
 - 📂 [Material](https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing)
 - 💻 [IBM SkillsBuild](https.www.guayerd.com/ibm-ia/sbplan2025)
 
-## 🗺️ Contenido del Curso
+## Primeros Pasos
 
-El programa está organizado en 4 sprints intensivos:
+Para obtener una copia local y comenzar a contribuir, sigue estos sencillos pasos.
 
-### 🌱 Sprint 1: Fundamentos (Septiembre)
-> **Objetivo**: Bases sólidas en programación y conceptos de IA
+### Prerrequisitos
 
-- 🧠 Inteligencia Artificial y Pensamiento Computacional
-- 🐍 Programación Python y estructuras de datos
-- 📂 [Ver recursos](./sprint1/README.md)
+Asegúrate de tener instalado [Git](https://git-scm.com/) y [Python 3.x](https://www.python.org/downloads/) en tu sistema.
 
-### 📊 Sprint 2: Análisis (Octubre)
-> **Objetivo**: Análisis y visualización de datos
+### Instalación
 
-- 🤖 Copilot Chat y prompt engineering
-- 🐼 Pandas y análisis estadístico
-- 📈 Visualización con Matplotlib/Seaborn
-- 📂 [Ver recursos](./sprint2/README.md)
+1.  Haz un Fork de este repositorio.
+2.  Clona tu fork en tu máquina local:
+    ```sh
+    git clone https://github.com/tu_usuario/AI-Fundamentals-Guayerd-IBM.git
+    ```
+3.  Navega al directorio del proyecto:
+    ```sh
+    cd AI-Fundamentals-Guayerd-IBM
+    ```
+4.  Instala las dependencias del proyecto:
+    ```sh
+    pip install -r requirements.txt
+    ```
+5.  Crea una rama para tus cambios:
+    ```sh
+    git checkout -b 'feature/AmazingFeature'
+    ```
+
+## Contenido del Curso
+
+El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
+
+### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
+- 📂 [Más información](./sprint1/README.md)
+
+### 📊 Sprint 2: Análisis con Python (Octubre)
+- 📂 [Más información](./sprint2/README.md)
 
 ### 🤖 Sprint 3: Machine Learning (Noviembre)
-> **Objetivo**: Fundamentos de ML y visualización
+- 📂 [Más información](./sprint3/README.md)
 
-- 🎯 Machine Learning con scikit-learn
-- 📊 Power BI y modelado de datos
-- 📂 [Ver recursos](./sprint3/README.md)
+### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
+- 📂 [Más información](./sprint4/README.md)
 
-### 📈 Sprint 4: Proyecto Final (Diciembre)
-> **Objetivo**: Integración y presentación
+## Proyecto Integrador
 
-- 📊 Storytelling con datos
-- 🎯 Proyecto integrador
-- 🎓 Certificación IBM
-- 📂 [Ver recursos](./sprint4/README.md)
+> Esta sección contiene todos los recursos, instrucciones y archivos de trabajo para el proyecto final del curso. ¡Es el lugar donde aplicaremos todo lo aprendido!
 
-## 📁 Estructura del Repositorio
+- **[📂 Ver Instrucciones del Proyecto](./Project/instrucciones.md)**
+- **[📄 Documentación Adicional](./Project/Documentación.md)**
+
+## Estructura del Repositorio
 
 ```
-AI-Fundamentals-Guayerd-IBM/
-├── recursos/               # Recursos comunes
-│   ├── datasets/          # Datos de ejemplo
-│   └── templates/         # Plantillas
+.
+├── Project/                # Proyecto final integrador
+│   ├── Aurelion/           # Archivos de datos del proyecto
+│   ├── Documentación.md
+│   ├── instrucciones.md
+│   ├── programa.py
+│   └── textos.py
 │
-├── sprint-[1-4]/         # Carpetas de sprints
-│   ├── ejercicios/       # Ejercicios
-│   └── soluciones/       # Respuestas
-│
-└── .github/              # Configuración
+├── sprint-[1-4]/           # Material de estudio por sprint
+│   ├── ejercicios/         # Ejercicios prácticos
+│   └── soluciones/         # Soluciones a los ejercicios
 ```
 
-## 🤝 Cómo Contribuir
+## Cómo Contribuir
 
-Las contribuciones son bienvenidas. El flujo de trabajo básico es el siguiente:
+¡Las contribuciones son lo que hacen de la comunidad de código abierto un lugar increíble para aprender, inspirar y crear! Cualquier contribución que hagas será **muy apreciada**.
 
-### Pasos Principales
-1.  **Fork** este repositorio.
-2.  **Clona** tu fork a tu máquina local.
-3.  Crea una **rama** para tus cambios.
-4.  Añade tus soluciones en tu propia carpeta dentro de `sprint-[X]/soluciones/`.
-5.  Haz **commit** y **push** de tus cambios a tu fork.
-6.  Abre un **Pull Request** para que tus cambios sean revisados.
+Para pautas más detalladas, por favor revisa nuestras [pautas de contribución](CONTRIBUTING.md).
 
-Para pautas más detalladas, por favor revisa el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
+1.  Añade tus soluciones en tu propia carpeta dentro de `sprint-[X]/soluciones/`.
+2.  Haz **commit** de tus cambios (`git commit -m 'feat: Agrega solución para ejercicio X'`).
+3.  Haz **push** a tu rama (`git push origin 'feature/AmazingFeature'`).
+4.  Abre un **Pull Request** para que tus cambios sean revisados.
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
----
+## Agradecimientos
 
-🏫 Repositorio mantenido por estudiantes del curso con fines educativos.
+- Repositorio mantenido por estudiantes del curso con fines educativos.
