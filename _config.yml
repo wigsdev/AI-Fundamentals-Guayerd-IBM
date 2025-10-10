@@ -1,0 +1,28 @@
+# GitHub Pages Configuration
+title: AI Fundamentals – Guayerd x IBM
+description: Repositorio educativo del curso de Fundamentos de Inteligencia Artificial
+author: wigsdev
+
+# Theme configuration
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - requirements.txt
+  - Project/
+  - sprint1/
+  - sprint2/
+  - sprint3/
+  - sprint4/
