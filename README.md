@@ -2,11 +2,9 @@
 
 ¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
 
-<div align="center">
+## 🔗 Acceso al Repositorio
 
 [![Ver en GitHub](https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM)
-
-</div>
 
 ## Tabla de Contenidos
 
@@ -20,15 +18,9 @@
 
 ## Estado del Proyecto
 
-<div align="center">
-
 ![Estado](https://img.shields.io/badge/Estado-1era%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
 
-</div>
-
 ## Tecnologías
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -43,8 +35,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4D4D4D?style=for-the-badge&logo=openai&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
-
-</div>
 
 ## Sobre el Proyecto
 
