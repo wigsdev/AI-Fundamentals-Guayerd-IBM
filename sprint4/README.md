@@ -1,51 +1,53 @@
-# Sprint 4: Proyecto Final y Despliegue 🎯
+# Sprint 4: Visualización de datos con Power BI 🎯
 
 ## � Contenido Asincrónico
-- [Plan de Aprendizaje en IBM SkillsBuild]()
+- [Plan de Aprendizaje en IBM SkillsBuild](skills.yourlearning.ibm.com/activity/PLAN-CEFBAF1DFC73)
 
 ## 📚 Clases y Recursos
 
-### Clase 10 - Deployment y API's
+### Clase 12 - Introducción al entorno
 - [📊 Ver Presentación]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase10)
-<details>
-<summary>Ver contenido detallado de la clase</summary>
-
-- Despliegue de modelos
-- Introducción a APIs
-- Flask y FastAPI
-- Endpoints y rutas
-- Pruebas y documentación
-</details>
-
-### Clase 11 - Proyecto Final: Planificación
-- [📊 Ver Presentación]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase11)
-<details>
-<summary>Ver contenido detallado de la clase</summary>
-
-- Definición del proyecto
-- Requerimientos y alcance
-- Metodología de trabajo
-- Planificación de sprints
-- Herramientas y recursos
-</details>
-
-### Clase 12 - Proyecto Final: Desarrollo
-- [📊 Ver Presentación]()
+- [📗 Ver Resúmen]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase12)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
-- Implementación del modelo
-- Desarrollo del frontend
-- Integración de componentes
-- Testing y debugging
-- Presentación final
+- Interfaz
+- Conectores
+- Carga de datos
 </details>
+
+### Clase 13 - Modelado y relaciones
+- [📊 Ver Presentación]()
+- [📗 Ver Resúmen]()
+- [📹 Ver Grabación]()
+- [📝 Ejercicios](./ejercicios/clase13)
+<details>
+<summary>Ver contenido detallado de la clase</summary>
+
+- Qué es el modelado
+- Tipos de tablas
+- Dimensiones y medidas
+- Funciones DAX básicas
+- DER
+- Esquema de estrella
+- Tabla puente
+- Tabla de Calendario
+</details>
+
+### Clase 14 - Visualizaciones esenciales - Narrativa visual y storytelling           
+- [📊 Ver Presentación]()
+- [📹 Ver Grabación]()
+- [📝 Ejercicios](./ejercicios/clase14)
+<details>
+<summary>Ver contenido detallado de la clase</summary>
+
+- *Se agregará el contenido cuando esté disponible*
+</details>
+
+### Clase 15 - Demo
+
 ## 🎯 Objetivos del Sprint
 1. Aprender despliegue de modelos de ML
 2. Desarrollar APIs para modelos

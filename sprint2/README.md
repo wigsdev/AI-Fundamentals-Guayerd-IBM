@@ -1,55 +1,51 @@
-# Sprint 2: Programación en Python y Análisis de Datos 📊
+# Sprint 2: Análisis con Python 📊
 
 ## � Contenido Asincrónico
-- [Plan de Aprendizaje en IBM SkillsBuild]()
+- [Plan de Aprendizaje en IBM SkillsBuild](skills.yourlearning.ibm.com/activity/PLAN-CEFBAF1DFC73)
 
 ## 📚 Clases y Recursos
 
-### Clase 4 - Estructuras de Control y Funciones
-- [📊 Ver Presentación]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase4)
-<details>
-<summary>Ver contenido detallado de la clase</summary>
-
-- Condicionales (if, elif, else)
-- Bucles (for, while)
-- Definición y uso de funciones
-- Argumentos y parámetros
-- Return y scope
-- Buenas prácticas
-</details>
-
-### Clase 5 - Estructuras de Datos
-- [📊 Ver Presentación]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase5)
-<details>
-<summary>Ver contenido detallado de la clase</summary>
-
-- Listas y tuplas
-- Diccionarios y sets
-- Métodos de listas
-- Comprensión de listas
-- Manipulación de datos
-</details>
-
-### Clase 6 - Análisis de Datos con Pandas
-- [📊 Ver Presentación]()
+### Clase 6 - Limpieza y transformación
+- [📊 Ver Presentación](https://drive.google.com/file/d/1vuKcmQwvmpmx8J3FV7dWexbfanFgmp7W/view)
+- [📗Ver Resúmen]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase6)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
-- Introducción a Pandas
-- DataFrames y Series
-- Lectura y escritura de datos
-- Filtrado y selección
-- Operaciones básicas
-- Agregaciones y groupby
+- Pandas
+- Lectura de archivos
+- Estructuras principales
+- Inspección y limpieza
 </details>
 
+### Clase 7 - Estadística aplicada
+- [📊 Ver Presentación](https://drive.google.com/file/d/1ymlLHJazB9N1g5cWzuBfQDvEP3vrx_Rm/view)
+- [📗Ver Resúmen]()
+- [📹 Ver Grabación]()
+- [📝 Ejercicios](./ejercicios/clase7)
+<details>
+<summary>Ver contenido detallado de la clase</summary>
 
+- Estadística descriptiva básica
+- Distribución de datos
+- Correlaciones
+</details>
+
+### Clase 8 - Visualización
+- [📊 Ver Presentación](https://drive.google.com/file/d/1rnbxjWw83jlMQc8ETLpCj92-dBF5kpxN/view)
+- [📗Ver Resúmen]()
+- [📹 Ver Grabación]()
+- [📝 Ejercicios](./ejercicios/clase8)
+<details>
+<summary>Ver contenido detallado de la clase</summary>
+
+- Visualización
+- Matplotlib
+- Seaborn
+</details>
+
+### Clase 9 - Demo
 
 ## 🎯 Objetivos del Sprint
 1. Dominar estructuras de control en Python
