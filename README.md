@@ -1,31 +1,34 @@
 # AI Fundamentals – Guayerd x IBM 🧠🤖
 
-![Estado](https://img.shields.io/badge/Estado-1era%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
+¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
 
-¡Bienvenido al repositorio del curso de Fundamentos de Inteligencia Artificial! Este es un espacio colaborativo creado por y para estudiantes, con el apoyo de **Guayerd** e **IBM**. Aquí encontrarás todos los recursos que necesitas para tener éxito en el curso.
+<div align="center">
+
+[![Ver en GitHub](https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM)
+
+</div>
 
 ## Tabla de Contenidos
 
 - [Sobre el Proyecto](#sobre-el-proyecto)
-- [Primeros Pasos](#primeros-pasos)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Tecnologías](#tecnologías)
+- [Instalación y Primeros Pasos](#instalación-y-primeros-pasos)
 - [Contenido del Curso](#contenido-del-curso)
-- [Proyecto Integrador](#proyecto-integrador)
-- [Estructura del Repositorio](#estructura-del-repositorio)
 - [Cómo Contribuir](#cómo-contribuir)
-- [Licencia](#licencia)
-- [Agradecimientos](#agradecimientos)
+- [Licencia e Información del Repositorio](#licencia-e-información-del-repositorio)
 
-## Sobre el Proyecto
+## Estado del Proyecto
 
-Este repositorio contiene los materiales de estudio, ejercicios y soluciones del programa de **Fundamentos de Inteligencia Artificial**. Es un esfuerzo colaborativo de los estudiantes para facilitar el aprendizaje y la práctica.
+<div align="center">
 
-### Detalles del Curso
+![Estado](https://img.shields.io/badge/Estado-1era%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
 
-- 📆 **Horario**: Miércoles 19:00-22:00 hs
-- 👥 **Camada**: 15 | 👩🏻‍🏫 **Mentora**: Mirta
-- 📅 **Inicio**: 10/09/2025
+</div>
 
-### Tecnologías
+## Tecnologías
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -41,6 +44,18 @@ Este repositorio contiene los materiales de estudio, ejercicios y soluciones del
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4D4D4D?style=for-the-badge&logo=openai&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
 
+</div>
+
+## Sobre el Proyecto
+
+Este repositorio **educativo** contiene los materiales de estudio, ejercicios y soluciones del programa de **Fundamentos de Inteligencia Artificial**. Se realizó con fines educativos para que el contenido del curso esté más disponible y accesible.
+
+### Detalles del Curso
+
+- 📆 **Horario**: Miércoles 19:00-22:00 hs
+- 👥 **Camada**: 15 | 👩🏻‍🏫 **Mentora**: Mirta
+- 📅 **Inicio**: 10/09/2025
+
 ### Recursos Esenciales
 
 - 🎯 [Cronograma](https://docs.google.com/spreadsheets/d/1oZELgmgs1avtfWPebpx-lHdy0llN-RzT4l9DOu9SJsw/edit?gid=1204621847#gid=1204621847)
@@ -48,9 +63,9 @@ Este repositorio contiene los materiales de estudio, ejercicios y soluciones del
 - 📂 [Material](https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing)
 - 💻 [IBM SkillsBuild](https.www.guayerd.com/ibm-ia/sbplan2025)
 
-## Primeros Pasos
+## Instalación y Primeros Pasos
 
-Para obtener una copia local y comenzar a contribuir, sigue estos sencillos pasos.
+Para obtener una copia local y comenzar a trabajar con el repositorio, sigue estos pasos.
 
 ### Prerrequisitos
 
@@ -76,6 +91,34 @@ Asegúrate de tener instalado [Git](https://git-scm.com/) y [Python 3.x](https:/
     git checkout -b 'feature/AmazingFeature'
     ```
 
+### Quick Start
+
+Una vez instalado, aquí tienes algunas formas rápidas de comenzar:
+
+#### 📚 Explorar el Contenido
+```bash
+# Navegar a un sprint específico
+cd sprint1/ejercicios/clase2/
+
+# Ver los ejercicios disponibles
+ls -la
+```
+
+#### 🚀 Ejecutar Ejercicios
+```bash
+# Para ejercicios de Python
+python ejercicio.py
+
+# Para notebooks de Jupyter
+jupyter notebook estructura_de_datos.ipynb
+```
+
+#### 🔍 Estructura Recomendada
+- **Ejercicios**: Encuéntralos en `sprint-[X]/ejercicios/`
+- **Soluciones**: Agrega las tuyas en `sprint-[X]/soluciones/tu_usuario/`
+- **Proyecto**: Material del proyecto final en `Project/`
+- **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
+
 ## Contenido del Curso
 
 El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
@@ -92,44 +135,41 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
 - 📂 [Más información](./sprint4/README.md)
 
-## Proyecto Integrador
+### 🚀 Proyecto Integrador - Aurelion
+> Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
-> Esta sección contiene todos los recursos, instrucciones y archivos de trabajo para el proyecto final del curso. ¡Es el lugar donde aplicaremos todo lo aprendido!
+**📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion
+**📁 Carpeta:** [Project/](./Project/)
+**📖 Documentación:** [Ver instrucciones completas](./Project/instrucciones.md)
 
-- **[📂 Ver Instrucciones del Proyecto](./Project/instrucciones.md)**
-- **[📄 Documentación Adicional](./Project/Documentación.md)**
+**🗂️ Archivos principales:**
+- [📄 Instrucciones](./Project/instrucciones.md)
+- [📚 Documentación](./Project/Documentación.md) 
+- [🐍 Código Python](./Project/programa.py)
+- [📝 Archivos de texto](./Project/textos.py)
 
-## Estructura del Repositorio
-
-```
-.
-├── Project/                # Proyecto final integrador
-│   ├── Aurelion/           # Archivos de datos del proyecto
-│   ├── Documentación.md
-│   ├── instrucciones.md
-│   ├── programa.py
-│   └── textos.py
-│
-├── sprint-[1-4]/           # Material de estudio por sprint
-│   ├── ejercicios/         # Ejercicios prácticos
-│   └── soluciones/         # Soluciones a los ejercicios
-```
+**📊 Datos disponibles:**
+- Clientes, Productos, Ventas y Detalle de Ventas
+- [Ver carpeta de datos](./Project/Aurelion/)
 
 ## Cómo Contribuir
 
-¡Las contribuciones son lo que hacen de la comunidad de código abierto un lugar increíble para aprender, inspirar y crear! Cualquier contribución que hagas será **muy apreciada**.
+¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra [Guía de Contribución](CONTRIBUTING.md).
 
-Para pautas más detalladas, por favor revisa nuestras [pautas de contribución](CONTRIBUTING.md).
+### Resumen rápido:
+1. Haz fork del repositorio
+2. Crea una rama para tus soluciones
+3. Añade tus soluciones en `sprint-[X]/soluciones/tu_usuario/`
+4. Abre un Pull Request
 
-1.  Añade tus soluciones en tu propia carpeta dentro de `sprint-[X]/soluciones/`.
-2.  Haz **commit** de tus cambios (`git commit -m 'feat: Agrega solución para ejercicio X'`).
-3.  Haz **push** a tu rama (`git push origin 'feature/AmazingFeature'`).
-4.  Abre un **Pull Request** para que tus cambios sean revisados.
-
-## Licencia
+## Licencia e Información del Repositorio
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Agradecimientos
+Este repositorio es **educativo** y se realizó para que el contenido del curso esté más disponible.
 
-- Repositorio mantenido por estudiantes del curso con fines educativos.
+⭐ **Si el contenido te fue de utilidad, ¡dale una estrella al repositorio!**
+
+---
+
+**Mantenido por:** [wigsdev](https://github.com/wigsdev)
