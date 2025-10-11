@@ -17,12 +17,10 @@ plugins:
 
 # Exclude files
 exclude:
-  - README.md
   - CONTRIBUTING.md
   - LICENSE
   - requirements.txt
-  - Project/
-  - sprint1/
-  - sprint2/
-  - sprint3/
-  - sprint4/
+
+# Kramdown configuration
+kramdown:
+  toc_levels: []
