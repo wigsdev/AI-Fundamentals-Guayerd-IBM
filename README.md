@@ -43,7 +43,8 @@ Este repositorio **educativo** contiene los materiales de estudio, ejercicios y 
 ### Detalles del Curso
 
 - 📆 **Horario**: Miércoles 19:00-22:00 hs
-- 👥 **Camada**: 15 | 👩🏻‍🏫 **Mentora**: Mirta
+- 👥 **Camada**: 15
+- 👩🏻‍🏫 **Mentora**: Mirta
 - 📅 **Inicio**: 10/09/2025
 
 ### Recursos Esenciales
