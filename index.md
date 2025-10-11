@@ -1,3 +1,8 @@
+---
+layout: default
+title: AI Fundamentals – Guayerd x IBM
+---
+
 # AI Fundamentals – Guayerd x IBM 🧠🤖
 
 ¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
@@ -43,16 +48,15 @@ Este repositorio **educativo** contiene los materiales de estudio, ejercicios y 
 ### Detalles del Curso
 
 - 📆 **Horario**: Miércoles 19:00-22:00 hs
-- 👥 **Camada**: 15
-- 👩🏻‍🏫 **Mentora**: Mirta
+- 👥 **Camada**: 15 | 👩🏻‍🏫 **Mentora**: Mirta
 - 📅 **Inicio**: 10/09/2025
 
 ### Recursos Esenciales
 
-- 🎯 [Cronograma](https://docs.google.com/spreadsheets/d/1oZELgmgs1avtfWPebpx-lHdy0llN-RzT4l9DOu9SJsw/edit?gid=1204621847#gid=1204621847)
-- 📹 [Clases en Vivo](https://meet.google.com/npy-znnx-jfk)
-- 📂 [Material](https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing)
-- 💻 [IBM SkillsBuild](https.www.guayerd.com/ibm-ia/sbplan2025)
+- 🎯 [Cronograma](https://docs.google.com/spreadsheets/d/1oZELgmgs1avtfWPebpx-lHdy0llN-RzT4l9DOu9SJsw/edit?gid=1204621847#gid=1204621847){:target="_blank"}
+- 📹 [Clases en Vivo](https://meet.google.com/npy-znnx-jfk){:target="_blank"}
+- 📂 [Material](https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing){:target="_blank"}
+- 💻 [IBM SkillsBuild](https://www.guayerd.com/ibm-ia/sbplan2025){:target="_blank"}
 
 ## Instalación y Primeros Pasos
 
@@ -60,7 +64,7 @@ Para obtener una copia local y comenzar a trabajar con el repositorio, sigue est
 
 ### Prerrequisitos
 
-Asegúrate de tener instalado [Git](https://git-scm.com/) y [Python 3.x](https://www.python.org/downloads/) en tu sistema.
+Asegúrate de tener instalado [Git](https://git-scm.com/){:target="_blank"} y [Python 3.x](https://www.python.org/downloads/){:target="_blank"} en tu sistema.
 
 ### Instalación
 
@@ -108,44 +112,44 @@ jupyter notebook estructura_de_datos.ipynb
 - **Ejercicios**: Encuéntralos en `sprint-[X]/ejercicios/`
 - **Soluciones**: Agrega las tuyas en `sprint-[X]/soluciones/tu_usuario/`
 - **Proyecto**: Material del proyecto final en `Project/`
-- **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
+- **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md){:target="_blank"} para detalles
 
 ## Contenido del Curso
 
 El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
 
 ### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
-- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1)
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1){:target="_blank"}
 
 ### 📊 Sprint 2: Análisis con Python (Octubre)
-- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2)
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2){:target="_blank"}
 
 ### 🤖 Sprint 3: Machine Learning (Noviembre)
-- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint3)
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint3){:target="_blank"}
 
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
-- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint4)
+- 📂 [Más información](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint4){:target="_blank"}
 
 ### 🚀 Proyecto Integrador - Aurelion
 > Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
 **📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion
-**📁 Carpeta:** [Project/](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project)
-**📖 Documentación:** [Ver instrucciones completas](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md)
+**📁 Carpeta:** [Project/](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project){:target="_blank"}
+**📖 Documentación:** [Ver instrucciones completas](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md){:target="_blank"}
 
 **🗂️ Archivos principales:**
-- [📄 Instrucciones](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md)
-- [📚 Documentación](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/Documentación.md) 
-- [🐍 Código Python](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/programa.py)
-- [📝 Archivos de texto](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/textos.py)
+- [📄 Instrucciones](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md){:target="_blank"}
+- [📚 Documentación](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/Documentación.md){:target="_blank"} 
+- [🐍 Código Python](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/programa.py){:target="_blank"}
+- [📝 Archivos de texto](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/textos.py){:target="_blank"}
 
 **📊 Datos disponibles:**
 - Clientes, Productos, Ventas y Detalle de Ventas
-- [Ver carpeta de datos](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion)
+- [Ver carpeta de datos](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion){:target="_blank"}
 
 ## Cómo Contribuir
 
-¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra [Guía de Contribución](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/CONTRIBUTING.md).
+¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra [Guía de Contribución](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/CONTRIBUTING.md){:target="_blank"}.
 
 ### Resumen rápido:
 1. Haz fork del repositorio
@@ -155,7 +159,7 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 
 ## Licencia e Información del Repositorio
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/LICENSE){:target="_blank"} para más detalles.
 
 Este repositorio es **educativo** y se realizó para que el contenido del curso esté más disponible.
 
@@ -163,4 +167,4 @@ Este repositorio es **educativo** y se realizó para que el contenido del curso 
 
 ---
 
-**Mantenido por:** [wigsdev](https://github.com/wigsdev)
+**Mantenido por:** [wigsdev](https://github.com/wigsdev){:target="_blank"}
