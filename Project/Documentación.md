@@ -66,11 +66,8 @@ En esta etapa, el programa funciona como un visor interactivo de la documentaci�
 ### 3.3 Pseudocódigo
 ```pseudocode
 INICIO
-    // Cargar los textos de la documentación en una estructura de datos (ej: diccionario)
     CARGAR textos_documentacion
-
     MIENTRAS VERDADERO:
-        // Mostrar el menú principal al usuario y limpiar la pantalla
         LIMPIAR_PANTALLA
         MOSTRAR_MENU
             1. Tema, problema y solución
@@ -80,40 +77,40 @@ INICIO
             5. Sugerencias y mejoras con Copilot
             6. Salir
 
-        // Leer la opción seleccionada por el usuario
         LEER opcion_usuario
 
-        // Evaluar la opción del usuario
         SEGUN opcion_usuario:
-            CASO 1:
-                LIMPIAR_PANTALLA
-                MOSTRAR textos_documentacion['tema']
-            CASO 2:
-                LIMPIAR_PANTALLA
-                MOSTRAR textos_documentacion['dataset']
-            CASO 3:
-                LIMPIAR_PANTALLA
-                MOSTRAR textos_documentacion['estructura']
-            CASO 4:
-                LIMPIAR_PANTALLA
-                MOSTRAR textos_documentacion['escalas']
-            CASO 5:
-                LIMPIAR_PANTALLA
-                MOSTRAR textos_documentacion['sugerencias']
-            CASO 6:
-                IMPRIMIR "Saliendo del programa."
-                ROMPER // Termina el bucle MIENTRAS
-            CASO CONTRARIO:
-                IMPRIMIR "Opción no válida. Intente de nuevo."
+            CASO 1 → mostrar textos_documentacion['tema']
+            CASO 2 → mostrar textos_documentacion['dataset']
+            CASO 3 → mostrar textos_documentacion['estructura']
+            CASO 4 → mostrar textos_documentacion['escalas']
+            CASO 5 → mostrar textos_documentacion['sugerencias']
+            CASO 6 → salir
+            CASO CONTRARIO → “Opción no válida”
 
-        // Pausa para que el usuario pueda leer antes de volver al menú
         ESPERAR_CONFIRMACION
-
-    FIN MIENTRAS
 FIN
+
 ```
 
-### 3.4 Diagrama de flujo: en carpeta
+### 3.4 Diagrama de flujo
+
+
+```mermaid
+flowchart TD
+    A([Inicio]) --> B[Cargar textos_documentacion desde textos.py]
+    B --> C[Mostrar menu principal]
+    C --> D[Leer opcion del usuario]
+    D --> E{Opcion valida}
+    E -- Si --> F[Mostrar texto correspondiente]
+    E -- No --> G{Opcion igual a 6}
+    G -- Si --> H[Imprimir mensaje: Saliendo del programa]
+    G -- No --> I[Mostrar mensaje de error]
+    F --> J[Esperar confirmacion Enter]
+    I --> J
+    J --> C
+    H --> K([Fin])
+```
 
 ## 4. Sugerencias y mejoras aplicadas con Copilot
 * Separar la documentación en plantillas reutilizables (por ejemplo, textos.py) y desacoplarla del código del menú.
