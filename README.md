@@ -1,5 +1,3 @@
----
----
 # AI Fundamentals – Guayerd x IBM 🧠🤖
 
 ¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
