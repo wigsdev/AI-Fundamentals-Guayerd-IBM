@@ -1,10 +1,8 @@
 # GitHub Pages Configuration
+theme: jekyll-theme-minimal
 title: AI Fundamentals – Guayerd x IBM
 description: Repositorio educativo del curso de Fundamentos de Inteligencia Artificial
 author: wigsdev
-
-# Theme configuration
-theme: minima
 
 # Build settings
 markdown: kramdown
