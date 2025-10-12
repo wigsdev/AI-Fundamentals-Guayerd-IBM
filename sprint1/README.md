@@ -27,7 +27,7 @@
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ocdOpCVwav-7px-Za4KQPBltZfhJk3I2/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
 - [📗 Ver Resúmen](./Resumen-Clase2.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1xQV6ruFWgP9cXcCPvZLcwMtqKWLvvgNc?usp=drive_link)
-- [📝 Ejercicios](./ejercicios/clase2)
+- [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/ejercicios/clase2)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -45,7 +45,7 @@
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ayD8rPElciO0qKcUSzJQoWqutNQXajhX/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
 - [📗 Ver Resúmen](./Resumen-Clase3.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1K5nQKC4BKxcwJw3GDzTAYXADrlK0Nmku?usp=drive_link)
-- [📝 Ejercicios](./ejercicios/clase3)
+- [📝 Ejercicios]([./ejercicios/clase3](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/ejercicios/clase3)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -61,7 +61,7 @@
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1CJV8pqj02WjuF2Kc5U_qJhin6JejjdR1/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
 - [📗 Ver Resúmen](./Resumen-Clase4.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1Cb5U8RUAhvVowARWuL8dNWhMS1sXoz1t?usp=drive_link)
-- [📝 Ejercicios](./ejercicios/clase4)
+- [📝 Ejercicios]([./ejercicios/clase4](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/ejercicios/clase4)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
