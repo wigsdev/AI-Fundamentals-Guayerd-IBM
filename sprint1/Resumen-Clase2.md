@@ -98,6 +98,7 @@ Dividir un problema grande en partes más simples.
 **Problema:** Contar cuántos pedidos fueron enviados.
 
 **Datos:**
+
 | ID    | Pago      | Stock |
 | :---- | :-------- | :---- |
 | O-502 | Aprobado  | Sí    |
@@ -151,6 +152,7 @@ para cada pedido en tabla:
 ```
 
 **Ejemplo de salida simplificada:**
+
 | ID    | Estado    | Método  |
 | :---- | :-------- | :------ |
 | O-702 | Pendiente | —       |
