@@ -1,5 +1,5 @@
 # GitHub Pages Configuration
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/slate
 title: AI Fundamentals – Guayerd x IBM
 description: Repositorio educativo del curso de Fundamentos de Inteligencia Artificial
 author: wigsdev
