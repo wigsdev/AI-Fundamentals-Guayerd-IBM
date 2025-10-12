@@ -50,6 +50,7 @@ Programar es crear una secuencia lógica de pasos para alcanzar un objetivo.
 ## 🐍 5. Fundamentos de Python
 
 #### Funciones integradas comunes
+
 | Función     | Descripción                  |
 | :---------- | :--------------------------- |
 | `print()`   | Muestra texto o valores.     |
@@ -71,6 +72,7 @@ Programar es crear una secuencia lógica de pasos para alcanzar un objetivo.
 - No usar palabras reservadas (`for`, `int`, etc.).
 
 **Tipos básicos:**
+
 | Tipo   | Ejemplo      | Descripción |
 | :----- | :----------- | :---------- |
 | `int`  | `5`          | Entero      |
@@ -87,6 +89,7 @@ round(3.1416, 2)  # 3.14
 ```
 
 ## ➕ 7. Operadores
+
 | Tipo          | Ejemplo                | Descripción                |
 | :------------ | :--------------------- | :------------------------- |
 | **Aritméticos** | `+`, `-`, `*`, `/`, `%`, `**` | Operaciones matemáticas    |
