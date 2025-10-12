@@ -2,10 +2,6 @@
 
 ¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
 
-## 🔗 Acceso al Repositorio
-
-<a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM" target="_blank"><img src="https://img.shields.io/badge/Ir%20al%20código%20del%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ir al código del proyecto"></a>
-
 ## Tabla de Contenidos
 
 - [Sobre el Proyecto](#sobre-el-proyecto)
@@ -63,8 +59,6 @@ Para obtener una copia local y comenzar a trabajar con el repositorio, sigue est
 Asegúrate de tener instalado <a href="https://git-scm.com/" target="_blank">Git</a> y <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a> en tu sistema.
 
 ### Instalación
-<details>
-<summary>Ver más</summary>
 
 1.  Haz un Fork de este repositorio.
 2.  Clona tu fork en tu máquina local:
@@ -89,16 +83,12 @@ Asegúrate de tener instalado <a href="https://git-scm.com/" target="_blank">Git
     ```sh
     git checkout -b 'feature/AmazingFeature'
     ```
-</details>
 
 ### Quick Start
 
 Una vez instalado, aquí tienes algunas formas rápidas de comenzar:
 
 #### 📚 Explorar el Contenido
-
-<details>
-<summary>Ver más</summary>
 
 ```bash
 # Navegar a un sprint específico
@@ -107,12 +97,8 @@ cd sprint1/ejercicios/clase2/
 # Ver los ejercicios disponibles
 ls -la
 ```
-</details>
 
 #### 🚀 Ejecutar Ejercicios
-
-<details>
-<summary>Ver más</summary>
 
 ```bash
 # Para ejercicios de Python
@@ -121,18 +107,13 @@ python ejercicio.py
 # Para notebooks de Jupyter
 jupyter notebook estructura_de_datos.ipynb
 ```
-</details>
 
 #### 🔍 Estructura Recomendada
-
-<details>
-<summary>Ver más</summary>
 
 - **Ejercicios**: Encuéntralos en `sprint-[X]/ejercicios/`
 - **Soluciones**: Agrega las tuyas en `sprint-[X]/soluciones/tu_usuario/`
 - **Proyecto**: Material del proyecto final en `Project/`
 - **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
-</details>
 
 ## Contenido del Curso
 
