@@ -7,7 +7,7 @@
 
 ### Clase 10 - Fundamentos
 - [📊 Ver Presentación]()
-- [📗 Ver Resúmen]()
+- [📗 Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase10)
 <details>
@@ -21,7 +21,7 @@
 
 ### Clase 11 - Modelado con scikit-learn
 - [📊 Ver Presentación]()
-- [📗 Ver Resúmen]()
+- [📗 Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase11)
 <details>

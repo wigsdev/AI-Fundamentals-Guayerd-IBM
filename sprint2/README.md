@@ -7,7 +7,7 @@
 
 ### Clase 6 - Limpieza y transformación
 - [📊 Ver Presentación](https://drive.google.com/file/d/1vuKcmQwvmpmx8J3FV7dWexbfanFgmp7W/view)
-- [📗Ver Resúmen]()
+- [📗Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase6)
 <details>
@@ -21,7 +21,7 @@
 
 ### Clase 7 - Estadística aplicada
 - [📊 Ver Presentación](https://drive.google.com/file/d/1ymlLHJazB9N1g5cWzuBfQDvEP3vrx_Rm/view)
-- [📗Ver Resúmen]()
+- [📗Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase7)
 <details>
@@ -34,7 +34,7 @@
 
 ### Clase 8 - Visualización
 - [📊 Ver Presentación](https://drive.google.com/file/d/1rnbxjWw83jlMQc8ETLpCj92-dBF5kpxN/view)
-- [📗Ver Resúmen]()
+- [📗Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase8)
 <details>

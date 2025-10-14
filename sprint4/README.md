@@ -7,7 +7,7 @@
 
 ### Clase 12 - Introducción al entorno
 - [📊 Ver Presentación]()
-- [📗 Ver Resúmen]()
+- [📗 Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase12)
 <details>
@@ -20,7 +20,7 @@
 
 ### Clase 13 - Modelado y relaciones
 - [📊 Ver Presentación]()
-- [📗 Ver Resúmen]()
+- [📗 Ver Resúmen de la Clase]()
 - [📹 Ver Grabación]()
 - [📝 Ejercicios](./ejercicios/clase13)
 <details>
