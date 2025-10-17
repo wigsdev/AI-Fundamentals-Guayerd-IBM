@@ -7,8 +7,8 @@
 
 ### Clase 6 - Limpieza y transformación
 - [📊 Ver Presentación](https://drive.google.com/file/d/1vuKcmQwvmpmx8J3FV7dWexbfanFgmp7W/view)
-- [📗Ver Resúmen de la Clase]()
-- [📹 Ver Grabación]()
+- [📗Ver Resúmen de la Clase](./Resumen-Clase6.md)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1DSMYk4DNAdtj3mddz84sx4XvbqG4Uqer?usp=drive_link)
 - [📝 Ejercicios](./ejercicios/clase6)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
