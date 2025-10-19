@@ -155,7 +155,7 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 ### Resumen rápido:
 1. Haz fork del repositorio
 2. Crea una rama para tus soluciones
-3. Añade tus soluciones en `sprint[X]/soluciones/tu_usuario/`
+3. Añade tus soluciones en `sprint[n°]/soluciones/tu_usuario/`
 4. Abre un Pull Request
 
 ## Licencia e Información del Repositorio
