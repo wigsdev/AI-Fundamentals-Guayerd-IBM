@@ -134,18 +134,15 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 ### 🚀 Proyecto Integrador - Aurelion
 > Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
-**📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion.
-
-**📁 Carpeta:** 
-- [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project)
-
-**🗂️ Archivos principales:**
-- [📄 Docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs)
-- [🐍 Code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/code)
+**📁 Carpeta principal:** [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project)
 
 **📊 Datos disponibles:**
-- Clientes, Productos, Ventas y Detalle de Ventas
-- <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion" target="_blank">Ver carpeta de datos</a>
+[Aurelion](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion)
+
+**🗂️ Primera Demo:** | [🥇primera-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo) | [🐍code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/code) | [📄docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs) |
+
+**🗂️ Segunda Demo:** | [🥈segunda-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo) | [🐍code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) | [📄docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) | [📤output](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/output) |
+
 
 ## Cómo Contribuir
 
