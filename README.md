@@ -134,9 +134,10 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 ### 🚀 Proyecto Integrador - Aurelion
 > Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
-**📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion
-**📁 Carpeta:** <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project" target="_blank">Project/</a>
-**📖 Documentación:** <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md" target="_blank">Ver instrucciones completas</a>
+**📋 Descripción:** Análisis de datos de ventas de la empresa Aurelion.
+
+**📁 Carpeta:** 
+- [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project)
 
 **🗂️ Archivos principales:**
 - [📄 Docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs)
