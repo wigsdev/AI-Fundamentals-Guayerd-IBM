@@ -139,10 +139,8 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 **📖 Documentación:** <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md" target="_blank">Ver instrucciones completas</a>
 
 **🗂️ Archivos principales:**
-- [📄 Instrucciones](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/instrucciones.md)
-- [📚 Documentación](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/Documentación.md) 
-- [🐍 Código Python](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/programa.py)
-- [📝 Archivos de texto](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/Project/textos.py)
+- [📄 Docs](Project/primera-demo/docs)
+- [🐍 Code](Project/primera-demo/code)
 
 **📊 Datos disponibles:**
 - Clientes, Productos, Ventas y Detalle de Ventas
