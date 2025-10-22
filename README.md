@@ -120,16 +120,16 @@ jupyter notebook estructura_de_datos.ipynb
 El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
 
 ### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
-- 📂 <a href="sprint1/" target="_blank">Más información</a>
+- 📂 <a href="sprint1/" target="_blank">Clases 1 - 5</a>
 
 ### 📊 Sprint 2: Análisis con Python (Octubre)
-- 📂 <a href="sprint2/" target="_blank">Más información</a>
+- 📂 <a href="sprint2/" target="_blank">Clases 6 - 9</a>
 
 ### 🤖 Sprint 3: Machine Learning (Noviembre)
-- 📂 <a href="sprint3/" target="_blank">Más información</a>
+- 📂 <a href="sprint3/" target="_blank">Clases 10 - 11</a>
 
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
-- 📂 <a href="sprint4/" target="_blank">Más información</a>
+- 📂 <a href="sprint4/" target="_blank">Clases 12 - 15</a>
 
 ### 🚀 Proyecto Integrador - Aurelion
 > Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
