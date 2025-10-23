@@ -1,20 +1,26 @@
 # AI Fundamentals – Guayerd x IBM 🧠🤖
 
+![Estado](https://img.shields.io/badge/Estado-2da%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
+
 ¡Bienvenido al repositorio **educativo** del curso de Fundamentos de Inteligencia Artificial! Este espacio fue creado para hacer el contenido del curso más disponible y accesible.
 
 ## Tabla de Contenidos
 
-- [Sobre el Proyecto](#sobre-el-proyecto)
-- [Estado del Proyecto](#estado-del-proyecto)
+- [Detalles y Recursos](#detalles-del-curso)
 - [Tecnologías](#tecnologías)
-- [Instalación y Primeros Pasos](#instalación-y-primeros-pasos)
 - [Contenido del Curso](#contenido-del-curso)
+- [Proyecto Integrador](#proyecto-integrador---aurelion)
+- [Instalación](#instalación-y-primeros-pasos)
 - [Cómo Contribuir](#cómo-contribuir)
-- [Licencia e Información del Repositorio](#licencia-e-información-del-repositorio)
+- [Licencia](#licencia-e-información-del-repositorio)
 
-## Estado del Proyecto
+### Detalles del Curso
 
-![Estado](https://img.shields.io/badge/Estado-1era%20Demo-blue?style=for-the-badge) ![Colaboración](https://img.shields.io/badge/Colaboración-Bienvenida-brightgreen?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
+| 📆 **Horario**: Miércoles 19:00-22:00 hs | 👥 **Camada**: 15 | 👩🏻‍🏫 **Mentora**: Mirta | 📅 **Inicio**: 10/09/2025 |
+
+### Recursos Esenciales
+
+| 🎯 <a href="https://docs.google.com/spreadsheets/d/1oZELgmgs1avtfWPebpx-lHdy0llN-RzT4l9DOu9SJsw/edit?gid=1204621847#gid=1204621847" target="_blank">Cronograma</a> |  📹 <a href="https://meet.google.com/npy-znnx-jfk" target="_blank">Clases en Vivo</a> | 📂 <a href="https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing" target="_blank">Material</a> | 💻 <a href="https.www.guayerd.com/ibm-ia/sbplan2025" target="_blank">IBM SkillsBuild</a> |
 
 ## Tecnologías
 
@@ -32,23 +38,27 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4D4D4D?style=for-the-badge&logo=openai&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
 
-## Sobre el Proyecto
+## Contenido del Curso
 
-Este repositorio **educativo** contiene los materiales de estudio, ejercicios y soluciones del programa de **Fundamentos de Inteligencia Artificial**. Se realizó con fines educativos para que el contenido del curso esté más disponible y accesible.
+El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
 
-### Detalles del Curso
+### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
+- 📂 <a href="sprint1/" target="_blank">Clases 1 - 5</a>
+### 📊 Sprint 2: Análisis con Python (Octubre)
+- 📂 <a href="sprint2/" target="_blank">Clases 6 - 9</a>
+### 🤖 Sprint 3: Machine Learning (Noviembre)
+- 📂 <a href="sprint3/" target="_blank">Clases 10 - 11</a>
+### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
+- 📂 <a href="sprint4/" target="_blank">Clases 12 - 15</a>
+### 🚀 Proyecto Integrador - Aurelion
+> Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
-- 📆 **Horario**: Miércoles 19:00-22:00 hs
-- 👥 **Camada**: 15
-- 👩🏻‍🏫 **Mentora**: Mirta
-- 📅 **Inicio**: 10/09/2025
-
-### Recursos Esenciales
-
-- 🎯 <a href="https://docs.google.com/spreadsheets/d/1oZELgmgs1avtfWPebpx-lHdy0llN-RzT4l9DOu9SJsw/edit?gid=1204621847#gid=1204621847" target="_blank">Cronograma</a>
-- 📹 <a href="https://meet.google.com/npy-znnx-jfk" target="_blank">Clases en Vivo</a>
-- 📂 <a href="https://drive.google.com/drive/folders/1TNZnY25ROuJX_mSkKEq9Nl5lV3D8WvfT?usp=sharing" target="_blank">Material</a>
-- 💻 <a href="https.www.guayerd.com/ibm-ia/sbplan2025" target="_blank">IBM SkillsBuild</a>
+| Recurso | Enlace |
+|---------|---------|
+| 📁 **Proyecto** | [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project) |
+| 📊 **Datos** | [Aurelion](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion) |
+| 🥇 **Demo 1** | [primera-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo) • [code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/code) • [docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs) |
+| 🥈 **Demo 2** | [segunda-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo) • [code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) • [docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) • [output](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/output) |
 
 ## Instalación y Primeros Pasos
 
@@ -84,65 +94,22 @@ Asegúrate de tener instalado <a href="https://git-scm.com/" target="_blank">Git
     git checkout -b 'feature/AmazingFeature'
     ```
 
-### Quick Start
-
-Una vez instalado, aquí tienes algunas formas rápidas de comenzar:
-
-#### 📚 Explorar el Contenido
+### 🚀 Quick Start
 
 ```bash
-# Navegar a un sprint específico
-cd sprint1/ejercicios/clase2/
-
-# Ver los ejercicios disponibles
-ls -la
-```
-
-#### 🚀 Ejecutar Ejercicios
-
-```bash
-# Para ejercicios de Python
+# Ejercicios Python
 python ejercicio.py
 
-# Para notebooks de Jupyter
+# Notebooks Jupyter
 jupyter notebook estructura_de_datos.ipynb
 ```
 
-#### 🔍 Estructura Recomendada
+### � Estructura
 
 - **Ejercicios**: Encuéntralos en `sprint-[X]/ejercicios/`
 - **Soluciones**: Agrega las tuyas en `sprint-[X]/soluciones/tu_usuario/`
 - **Proyecto**: Material del proyecto final en `Project/`
 - **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
-
-## Contenido del Curso
-
-El programa está organizado en 4 sprints intensivos. Para ver el detalle de cada sprint, haz click en el enlace correspondiente.
-
-### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
-- 📂 <a href="sprint1/" target="_blank">Clases 1 - 5</a>
-
-### 📊 Sprint 2: Análisis con Python (Octubre)
-- 📂 <a href="sprint2/" target="_blank">Clases 6 - 9</a>
-
-### 🤖 Sprint 3: Machine Learning (Noviembre)
-- 📂 <a href="sprint3/" target="_blank">Clases 10 - 11</a>
-
-### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
-- 📂 <a href="sprint4/" target="_blank">Clases 12 - 15</a>
-
-### 🚀 Proyecto Integrador - Aurelion
-> Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
-
-**📁 Carpeta principal:** [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project)
-
-**📊 Datos disponibles:**
-[Aurelion](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion)
-
-**🗂️ Primera Demo:** | [🥇primera-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo) | [🐍code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/code) | [📄docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs) |
-
-**🗂️ Segunda Demo:** | [🥈segunda-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo) | [🐍code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) | [📄docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) | [📤output](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/output) |
-
 
 ## Cómo Contribuir
 
@@ -165,3 +132,14 @@ Este repositorio es **educativo** y se realizó para que el contenido del curso 
 ---
 
 **Mantenido por:** <a href="https://github.com/wigsdev" target="_blank">wigsdev</a>
+e utilidad, ¡dale una estrella al repositorio!**
+
+---
+
+**Mantenido por:** <a href="https://github.com/wigsdev" target="_blank">wigsdev</a>té más disponible.
+
+⭐ **Si el contenido te fue de utilidad, ¡dale una estrella al repositorio!**
+
+---
+
+**Mantenido por:** [wigsdev](https://github.com/wigsdev)
