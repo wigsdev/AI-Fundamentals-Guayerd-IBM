@@ -1,13 +1,13 @@
 # Sprint 1: Introducción a la IA y Fundamentos 🚀
 
-## � Contenido Asincrónico
+##  Contenido Asincrónico
 - [Plan de Aprendizaje en IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/PLAN-CEFBAF1DFC73)
 
-## �📚 Clases y Recursos
+## 📚 Clases y Recursos
 
 ### Clase 1 (8 de septiembre) - Introducción a la Inteligencia Artificial
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1Xw4tjA19CbZhB-rHn4Lz6ZVvTUny693F/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
-- <a href="/sprint1/Clase1/Resumen-Clase1.md" target="_blank">📗 Ver Resúmen de la Clase</a>
+- [📗 Ver Resúmen de la Clase](./Clase1/Resumen-Clase1.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1POicXTZHnToTh0nQlSXFnSSDoxVVaEDN?usp=drive_link)
 - 📝 Ejercicios - *No disponible para esta clase*
 <details>
@@ -25,7 +25,7 @@
 
 ### Clase 2 (15 de septiembre) - Fundamentos del Dato
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ocdOpCVwav-7px-Za4KQPBltZfhJk3I2/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
-- [📗 Ver Resúmen de la Clase](/sprint1/Clase2/Resumen-Clase2.md)
+- [📗 Ver Resúmen de la Clase](./Clase2/Resumen-Clase2.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1xQV6ruFWgP9cXcCPvZLcwMtqKWLvvgNc?usp=drive_link)
 - [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/Clase2/ejercicios)
 <details>
@@ -43,7 +43,7 @@
 
 ### Clase 3 (22 de septiembre) - Fundamentos de Python
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1ayD8rPElciO0qKcUSzJQoWqutNQXajhX/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
-- [📗 Ver Resúmen de la Clase](/sprint1/Clase3/Resumen-Clase3.md)
+- [📗 Ver Resúmen de la Clase](./Clase3/Resumen-Clase3.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1K5nQKC4BKxcwJw3GDzTAYXADrlK0Nmku?usp=drive_link)
 - [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/Clase3/ejercicios)
 <details>
@@ -59,7 +59,7 @@
 
 ### Clase 4 (29 de septiembre) - Python Avanzado
 - [📊 Ver Presentación](https://docs.google.com/presentation/d/1CJV8pqj02WjuF2Kc5U_qJhin6JejjdR1/edit?usp=drive_link&ouid=116294848281204676349&rtpof=true&sd=true)
-- [📗 Ver Resúmen de la Clase](/sprint1/Clase4/Resumen-Clase4.md)
+- [📗 Ver Resúmen de la Clase](./Clase4/Resumen-Clase4.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1Cb5U8RUAhvVowARWuL8dNWhMS1sXoz1t?usp=drive_link)
 - [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint1/Clase4/ejercicios)
 <details>
@@ -71,7 +71,7 @@
 
 ### Clase 5 (8 de octubre) - Copilot Chat y prompts
 - [📊 Ver Presentación](https://drive.google.com/file/d/1nhZqUtLtX5q-1-iZ9U4nkJmUmFSTXIge/view)
-- [📗 Ver Resúmen de la Clase](/sprint1/Clase5/Resumen-Clase5.md)
+- [📗 Ver Resúmen de la Clase](./Clase5/Resumen-Clase5.md)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1qipgpYVzMm6-6cMQB2zIsb3-tceEDJE9?usp=drive_link)
 - 📝 Ejercicios - *No disponible para esta clase*
 <details>
