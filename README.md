@@ -12,7 +12,7 @@
 - [Proyecto Integrador](#proyecto-integrador---aurelion)
 - [Instalación](#instalación-y-primeros-pasos)
 - [Cómo Contribuir](#cómo-contribuir)
-- [Licencia](#licencia-e-información-del-repositorio)
+- [Licencia](#licencia)
 
 ### Detalles del Curso
 
@@ -50,15 +50,16 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 - 📂 <a href="sprint3/" target="_blank">Clases 10 - 11</a>
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
 - 📂 <a href="sprint4/" target="_blank">Clases 12 - 15</a>
-### 🚀 Proyecto Integrador - Aurelion
-> Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
+
+## Proyecto Integrador - Aurelion
+
+Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso.
 
 | Recurso | Enlace |
 |---------|---------|
-| 📁 **Proyecto** | [Project](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project) |
-| 📊 **Datos** | [Aurelion](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/Aurelion) |
-| 🥇 **Demo 1** | [primera-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo) • [code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/code) • [docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/primera-demo/docs) |
-| 🥈 **Demo 2** | [segunda-demo](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo) • [code](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) • [docs](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/docs) • [output](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/Project/segunda-demo/output) |
+| 📁 **Proyecto** | [AurelionProject](AurelionProject/) |
+| 🥇 **Demo 1** | [primera-demo](AurelionProject/primera-demo/) • [code](AurelionProject/primera-demo/code/) • [docs](AurelionProject/primera-demo/docs/) |
+| 🥈 **Demo 2** | [segunda-demo](AurelionProject/segunda-demo/) • [code](AurelionProject/segunda-demo/code/) • [docs](AurelionProject/segunda-demo/docs/) • [output](AurelionProject/segunda-demo/output/) |
 
 ## Instalación y Primeros Pasos
 
@@ -70,76 +71,44 @@ Asegúrate de tener instalado <a href="https://git-scm.com/" target="_blank">Git
 
 ### Instalación
 
-1.  Haz un Fork de este repositorio.
+1.  Haz un **Fork** de este repositorio.
 2.  Clona tu fork en tu máquina local:
-
     ```sh
     git clone https://github.com/tu_usuario/AI-Fundamentals-Guayerd-IBM.git
     ```
 3.  Navega al directorio del proyecto:
-
     ```sh
     cd AI-Fundamentals-Guayerd-IBM
     ```
-
 4.  Instala las dependencias del proyecto:
-
     ```sh
     pip install -r requirements.txt
     ```
 
-5.  Crea una rama para tus cambios:
+### 💡 Estructura del Repositorio
 
-    ```sh
-    git checkout -b 'feature/AmazingFeature'
-    ```
-
-### 🚀 Quick Start
-
-```bash
-# Ejercicios Python
-python ejercicio.py
-
-# Notebooks Jupyter
-jupyter notebook estructura_de_datos.ipynb
-```
-
-### � Estructura
-
-- **Ejercicios**: Encuéntralos en `sprint-[X]/ejercicios/`
-- **Soluciones**: Agrega las tuyas en `sprint-[X]/soluciones/tu_usuario/`
-- **Proyecto**: Material del proyecto final en `Project/`
-- **Contribuir**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
+- **Material de Clase**: Encuéntralo en `sprint-[X]/`.
+- **Proyecto Final**: Todo lo relacionado al proyecto está en `AurelionProject/`.
+- **Contribuciones**: Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ## Cómo Contribuir
 
-¡Las contribuciones son bienvenidas! Para pautas detalladas sobre cómo contribuir con tus soluciones, por favor revisa nuestra <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/CONTRIBUTING.md" target="_blank">Guía de Contribución</a>.
+Agradecemos las contribuciones que ayuden a mejorar la estructura y la calidad de este repositorio educativo.
 
-### Resumen rápido:
-1. Haz fork del repositorio
-2. Crea una rama para tus soluciones
-3. Añade tus soluciones en `sprint[n°]/soluciones/tu_usuario/`
-4. Abre un Pull Request
+Si deseas colaborar, puedes hacerlo de las siguientes maneras:
+- **Reportando Fallos (Issues):** Si encuentras un error, un enlace roto o información desactualizada, por favor, [abre un issue](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/issues) para que podamos corregirlo.
+- **Proponiendo Mejoras (Pull Requests):** Si tienes una idea para reorganizar el contenido, mejorar la documentación o corregir un fallo directamente, eres bienvenido a abrir un Pull Request.
 
-## Licencia e Información del Repositorio
+**Nota Importante:** Este repositorio ya no acepta contribuciones con soluciones a los ejercicios. El foco principal de la colaboración es el mantenimiento y la mejora de la estructura del repositorio.
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/LICENSE" target="_blank">LICENSE</a> para más detalles.
+Para pautas detalladas, por favor revisa nuestra <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/blob/main/CONTRIBUTING.md" target="_blank">Guía de Contribución</a>.
 
-Este repositorio es **educativo** y se realizó para que el contenido del curso esté más disponible.
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
 
 ⭐ **Si el contenido te fue de utilidad, ¡dale una estrella al repositorio!**
-
----
-
-**Mantenido por:** <a href="https://github.com/wigsdev" target="_blank">wigsdev</a>
-e utilidad, ¡dale una estrella al repositorio!**
-
----
-
-**Mantenido por:** <a href="https://github.com/wigsdev" target="_blank">wigsdev</a>té más disponible.
-
-⭐ **Si el contenido te fue de utilidad, ¡dale una estrella al repositorio!**
-
----
 
 **Mantenido por:** [wigsdev](https://github.com/wigsdev)

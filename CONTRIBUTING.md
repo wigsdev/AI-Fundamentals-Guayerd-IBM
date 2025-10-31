@@ -1,74 +1,64 @@
 # Guía de Contribución
 
-¡Gracias por contribuir al repositorio del curso de AI Fundamentals! Esta guía te ayudará a enviar tus soluciones y contribuciones de manera efectiva.
+¡Gracias por tu interés en contribuir al repositorio del curso de AI Fundamentals! Tu ayuda es valiosa para mejorar la calidad del material y la estructura del proyecto.
 
-## 🚀 Estructura del Repositorio
+Este repositorio está diseñado para ser un recurso de aprendizaje y consulta. Aunque no se aceptan soluciones a los ejercicios, hay muchas otras formas en las que puedes colaborar.
 
-```
-AI-Fundamentals-Guayerd-IBM/
-├── recursos/                  # Recursos comunes del curso
-│   ├── datasets/             # Conjuntos de datos
-│   ├── presentaciones/       # Material de presentación
-│   ├── codigo/              # Código de ejemplo
-│   └── templates/           # Plantillas para ejercicios
-│
-└── sprint-[número]/          # Carpeta de cada sprint
-    ├── ejercicios/          # Ejercicios de la clase
-    └── soluciones/          # Soluciones de los estudiantes
-        └── [tu-usuario]/     # Ej: wigsdev
-            └── clase-[número]/
-                ├── ejercicio1.ipynb
-                ├── ejercicio2.py
-                └── README.md
-```
+## 🚀 Cómo Contribuir
+
+Puedes contribuir de las siguientes maneras:
+
+1.  **Reportando Bugs o Errores**: Si encuentras un error tipográfico, un enlace roto o cualquier otro fallo en el contenido o la estructura del repositorio.
+2.  **Sugiriendo Mejoras**: Si tienes ideas para mejorar la estructura, la documentación o añadir nuevos recursos que beneficien a todos.
+3.  **Actualizando Contenido**: Si consideras que algún material está desactualizado o podría explicarse de una manera más clara.
 
 ## 📝 Proceso de Contribución
 
-### 1. Preparación
-1. Haz fork del repositorio a tu cuenta de GitHub
-2. Clona tu fork localmente: `git clone https://github.com/[tu-usuario]/AI-Fundamentals-Guayerd-IBM.git`
-3. Añade el repositorio original como remoto: `git remote add upstream https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM.git`
-*(Este comando te permite descargar actualizaciones directamente desde el repositorio principal del curso).*
+### 1. Reportar un Bug o Sugerir una Mejora
 
-### 2. Creación de tu Solución
-1. Actualiza tu rama main: `git pull upstream main`
-*(Hacemos esto para asegurarnos de tener los últimos ejercicios y materiales antes de empezar a trabajar).*
-2. Crea una rama descriptiva: `git checkout -b soluciones-sprint1-juan`
-*(Usa un nombre de rama descriptivo, como `soluciones-sprint<numero>-<tu-nombre>`)*.
-3. Ubica la carpeta del sprint correspondiente
-4. Dentro de `soluciones/`, crea una carpeta con tu nombre de usuario (por ejemplo: `wigsdev`)
-5. Copia los notebooks de ejercicios y completa tus respuestas
+La forma más sencilla de contribuir es creando un **Issue** en GitHub.
 
-### 3. Completar los Ejercicios
-- Los ejercicios están en notebooks de Jupyter dentro de la carpeta `ejercicios/` de cada sprint
-- Completa tus respuestas en las celdas designadas
-- No modifiques las celdas de enunciados o tests
-- Asegúrate de que tus soluciones pasen los tests incluidos
+-   **Para reportar un bug**: Utiliza la plantilla de [Bug Report](.github/ISSUE_TEMPLATE/bug_report.yml).
+-   **Para sugerir una mejora**: Utiliza la plantilla de [Feature Request](.github/ISSUE_TEMPLATE/feature_request.yml).
 
-### 4. Envío de tu Solución
-1. Haz commit con tus cambios: `git commit -m "feat(sprint1): Resolver ejercicios de la clase 3"`
-*(Intenta usar mensajes que describan qué sprint y clase estás entregando. ¡Esto ayuda mucho a los mentores!)*
-2. Sube tus cambios: `git push origin <nombre-de-tu-rama>`
-3. Crea un Pull Request desde GitHub
-4. Espera la revisión de los mentores
+Describe tu propuesta con el mayor detalle posible para que podamos entenderla y evaluarla correctamente.
+
+### 2. Enviar un Pull Request
+
+Si deseas realizar los cambios tú mismo, sigue estos pasos:
+
+1.  **Haz un fork** del repositorio a tu cuenta de GitHub.
+2.  **Clona tu fork** localmente:
+    ```bash
+    git clone https://github.com/[tu-usuario]/AI-Fundamentals-Guayerd-IBM.git
+    ```
+3.  **Añade el repositorio original** como remoto para mantenerlo actualizado:
+    ```bash
+    git remote add upstream https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM.git
+    ```
+4.  **Crea una rama descriptiva** para tus cambios:
+    ```bash
+    git checkout -b fix/error-tipografico-readme
+    ```
+    o
+    ```bash
+    git checkout -b feat/nueva-seccion-recursos
+    ```
+5.  **Realiza los cambios** en los archivos correspondientes.
+6.  **Haz commit** de tus cambios con un mensaje claro y descriptivo:
+    ```bash
+    git commit -m "fix: Corrige error tipográfico en README.md"
+    ```
+7.  **Sube tus cambios** a tu fork:
+    ```bash
+    git push origin fix/error-tipografico-readme
+    ```
+8.  **Crea un Pull Request** desde tu fork a la rama `main` del repositorio original.
 
 ## ⚠️ Importante
 
-- No modifiques archivos fuera de tu carpeta de respuestas
-- No incluyas archivos grandes (>50MB) ni datos sensibles
-- Mantén un código limpio y bien documentado
-- Sigue las convenciones de nombres establecidas
+-   **No subas soluciones de ejercicios**. Este repositorio está destinado a ser una guía y no un solucionario.
+-   Asegúrate de que tus cambios no introduzcan errores de formato o enlaces rotos.
+-   Mantén un código limpio y sigue las convenciones del proyecto si modificas algún script.
 
-## 👨‍🏫 Proceso de Revisión
-
-1. Los mentores revisarán tu código
-2. Puedes recibir sugerencias de mejora
-3. Realiza los cambios solicitados si es necesario
-4. Una vez aprobado, se fusionará con la rama principal
-
-## 🙋‍♂️ Ayuda y Soporte
-
-- Revisa los [ejemplos](recursos/codigo/ejemplos/)
-- Usa las [Issues](../../issues) para preguntas generales
-- Menciona a los mentores en tu PR para revisión
-- Consulta el [canal de Discord](https://discord.gg/curso-ia) para dudas
+¡Gracias de nuevo por tu colaboración!
