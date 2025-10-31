@@ -44,10 +44,13 @@ El programa está organizado en 4 sprints intensivos. Para ver el detalle de cad
 
 ### 🌱 Sprint 1: Introducción a la IA y Fundamentos (Septiembre)
 - 📂 <a href="sprint1/" target="_blank">Clases 1 - 5</a>
+
 ### 📊 Sprint 2: Análisis con Python (Octubre)
 - 📂 <a href="sprint2/" target="_blank">Clases 6 - 9</a>
+
 ### 🤖 Sprint 3: Machine Learning (Noviembre)
 - 📂 <a href="sprint3/" target="_blank">Clases 10 - 11</a>
+
 ### 📈 Sprint 4: Visualización de datos con Power BI (Diciembre)
 - 📂 <a href="sprint4/" target="_blank">Clases 12 - 15</a>
 
@@ -57,9 +60,10 @@ Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso
 
 | Recurso | Enlace |
 |---------|---------|
-| 📁 **Proyecto** | <a href="AurelionProject/" target="_blank">AurelionProject</a> |
-| 🥇 **Demo 1** | <a href="AurelionProject/primera-demo/" target="_blank">primera-demo</a> . <a href="AurelionProject/primera-demo/code/" target="_blank">code</a> . <a href="AurelionProject/primera-demo/docs/" target="_blank">docs</a> |
-| 🥈 **Demo 2** | <a href="AurelionProject/segunda-demo/" target="_blank">segunda-demo</a> - <a href="AurelionProject/segunda-demo/code/" target="_blank">code</a> - <a href="AurelionProject/segunda-demo/docs/" target="_blank">docs</a> - <a href="AurelionProject/segunda-demo/output/" target="_blank">output</a> |
+| 📁 **Proyecto** | <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject" target="_blank">AurelionProject</a> |
+| 📂 **Data** | <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/data" target="_blank">data</a> |
+| 🥇 **Demo 1** | <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/primera-demo" target="_blank">primera-demo</a> - <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/primera-demo/code" target="_blank">code</a> - <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/primera-demo/docs" target="_blank">docs</a> |
+| 🥈 **Demo 2** | <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/segunda-demo" target="_blank">segunda-demo</a> - <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/segunda-demo/code" target="_blank">code</a> - <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/segunda-demo/docs" target="_blank">docs</a> - <a href="https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/AurelionProject/segunda-demo/output" target="_blank">output</a> |
 
 ## Instalación y Primeros Pasos
 
