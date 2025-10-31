@@ -57,9 +57,9 @@ Proyecto final donde aplicaremos todos los conceptos aprendidos durante el curso
 
 | Recurso | Enlace |
 |---------|---------|
-| 📁 **Proyecto** | [AurelionProject](AurelionProject/) |
-| 🥇 **Demo 1** | [primera-demo](AurelionProject/primera-demo/) • [code](AurelionProject/primera-demo/code/) • [docs](AurelionProject/primera-demo/docs/) |
-| 🥈 **Demo 2** | [segunda-demo](AurelionProject/segunda-demo/) • [code](AurelionProject/segunda-demo/code/) • [docs](AurelionProject/segunda-demo/docs/) • [output](AurelionProject/segunda-demo/output/) |
+| 📁 **Proyecto** | <a href="AurelionProject/" target="_blank">AurelionProject</a> |
+| 🥇 **Demo 1** | <a href="AurelionProject/primera-demo/" target="_blank">primera-demo</a> . <a href="AurelionProject/primera-demo/code/" target="_blank">code</a> . <a href="AurelionProject/primera-demo/docs/" target="_blank">docs</a> |
+| 🥈 **Demo 2** | <a href="AurelionProject/segunda-demo/" target="_blank">segunda-demo</a> - <a href="AurelionProject/segunda-demo/code/" target="_blank">code</a> - <a href="AurelionProject/segunda-demo/docs/" target="_blank">docs</a> - <a href="AurelionProject/segunda-demo/output/" target="_blank">output</a> |
 
 ## Instalación y Primeros Pasos
 
