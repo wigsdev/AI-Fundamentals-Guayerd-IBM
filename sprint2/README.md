@@ -7,9 +7,9 @@
 
 ### Clase 6 - Limpieza y transformación
 - [📊 Ver Presentación](https://drive.google.com/file/d/1vuKcmQwvmpmx8J3FV7dWexbfanFgmp7W/view)
-- [📗Ver Resúmen de la Clase](./Resumen-Clase6.md)
+- [📗Ver Resúmen de la Clase](sprint2/clase6)
 - [📹 Ver Grabación](https://drive.google.com/drive/folders/1DSMYk4DNAdtj3mddz84sx4XvbqG4Uqer?usp=drive_link)
-- [📝 Ejercicios](./ejercicios/clase6)
+- [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2/Clase6/ejercicios)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -21,9 +21,9 @@
 
 ### Clase 7 - Estadística aplicada
 - [📊 Ver Presentación](https://drive.google.com/file/d/1ymlLHJazB9N1g5cWzuBfQDvEP3vrx_Rm/view)
-- [📗Ver Resúmen de la Clase]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase7)
+- [📗Ver Resúmen de la Clase](sprint2/clase7)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1m9pxIzDAgubChHgOzP6kwntP6DGpNnJo?usp=drive_link)
+- [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2/Clase7/ejercicios)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -34,9 +34,9 @@
 
 ### Clase 8 - Visualización
 - [📊 Ver Presentación](https://drive.google.com/file/d/1rnbxjWw83jlMQc8ETLpCj92-dBF5kpxN/view)
-- [📗Ver Resúmen de la Clase]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase8)
+- [📗Ver Resúmen de la Clase](sprint2/clase8)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1t45HMswWkuj8aBprD_6u9t_EISbNtain?usp=drive_link)
+- [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint2/Clase8/ejercicios)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -53,17 +53,11 @@
 3. Aprender análisis de datos con Pandas
 4. Realizar ejercicios prácticos de programación
 
-## 📝 Instrucciones para Ejercicios
-- Encuentra los ejercicios de cada clase en su carpeta correspondiente
-- Crea una carpeta con tu nombre en [`soluciones/`](./soluciones/)
-- No modifiques los archivos originales de los ejercicios
-- Sigue las convenciones de nombrado indicadas
-
 ## 📚 Recursos y Herramientas
 ### 📖 Documentación
 - [Python Documentation](https://docs.python.org/3/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [IBM SkillsBuild - Python](https://skillsbuild.org/)
+- [IBM SkillsBuild - Python](https://www.guayerd.com/ibm-ia/sbplan2025)
 
 ### 🤖 Herramientas de IA
 - [NotebookLM](https://notebooklm.google.com/) - Asistente de IA de Google para análisis de datos
