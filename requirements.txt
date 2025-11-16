@@ -1,28 +1,29 @@
 # Dependencias básicas
-numpy>=1.21.0
-pandas>=1.3.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
+numpy>=2.3.4
+pandas>=2.3.3
+matplotlib>=3.10.7
+seaborn>=0.13.2
 
 # Jupyter y herramientas relacionadas
-jupyter>=1.0.0
-notebook>=6.4.0
-ipykernel>=6.0.0
+jupyter>=1.1.1
+notebook>=7.4.7
+ipykernel>=7.1.0
 
 # Machine Learning
-scikit-learn>=1.0.0
+scikit-learn>=1.7.2
+mlxtend>=0.23.4
 
 # Visualización
-plotly>=5.3.0
+plotly>=6.4.0
 
 # Power BI (solo referencia, se instala por separado)
 # Microsoft Power BI Desktop
 
 # Herramientas de desarrollo
-black>=21.0  # Formateador de código
-flake8>=3.9.0  # Linter
-pytest>=6.2.0  # Testing
+black>=25.11.0  # Formateador de código
+flake8>=7.3.0  # Linter
+pytest>=9.0.1  # Testing
 
 # Utilidades
-python-dotenv>=0.19.0
-requests>=2.26.0
+python-dotenv>=1.2.1
+requests>=2.32.5
