@@ -59,4 +59,4 @@ Esto resultó in un único DataFrame (`ventas_full_df`) con toda la información
 
 ## 5. Guardado de Datos Limpios
 
-El DataFrame final, limpio y unificado, se guardó en un nuevo archivo de formato CSV llamado `ventas_limpias.csv` dentro de la carpeta `Project/segunda-demo/output`. Este archivo está listo para ser utilizado en análisis posteriores.
+El DataFrame final, limpio y unificado, se guardó en un nuevo archivo de formato CSV llamado `clean_sales.csv` dentro de la carpeta `Project/segunda-demo/output`. Este archivo está listo para ser utilizado en análisis posteriores.

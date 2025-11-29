@@ -4,7 +4,7 @@
 
 **Objetivo:** Este documento detalla el proceso de análisis y la estructura narrativa del notebook `AnalisisProjectAurelionFinal.ipynb`. El objetivo es documentar la metodología utilizada para generar los hallazgos y la lógica de la presentación.
 
-**Fuente de Datos:** `ventas_limpias.csv`.
+**Fuente de Datos:** `clean_sales.csv`.
 
 ---
 
