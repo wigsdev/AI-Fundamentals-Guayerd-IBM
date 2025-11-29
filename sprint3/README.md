@@ -6,10 +6,10 @@
 ## 📚 Clases y Recursos
 
 ### Clase 10 - Fundamentos
-- [📊 Ver Presentación]()
-- [📗 Ver Resúmen de la Clase]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase10)
+- [📊 Ver Presentación](https://drive.google.com/file/d/1f3R6eBgwjS7oIGcMWBoTzS_yfV2fzM0H/view?usp=drive_open)
+- [📗 Ver Resúmen de la Clase](./clase10/Resumen-Clase10.md)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1_c1B-9X8gCZoNniGIkz9RLjz6SFpTiav?usp=sharing)
+- 📝 Ejercicios - *No disponible para esta clase*
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
@@ -20,10 +20,10 @@
 </details>
 
 ### Clase 11 - Modelado con scikit-learn
-- [📊 Ver Presentación]()
-- [📗 Ver Resúmen de la Clase]()
-- [📹 Ver Grabación]()
-- [📝 Ejercicios](./ejercicios/clase11)
+- [📊 Ver Presentación](https://drive.google.com/file/d/1fcAg9aFIYMCIWvvIP4h_23OpAWTXFWFo/view)
+- [📗 Ver Resúmen de la Clase](./clase11/Resumen-Clase11.md)
+- [📹 Ver Grabación](https://drive.google.com/drive/folders/1_c1B-9X8gCZoNniGIkz9RLjz6SFpTiav?usp=sharing)
+- [📝 Ejercicios](https://github.com/wigsdev/AI-Fundamentals-Guayerd-IBM/tree/main/sprint3/clase11/ejercicios)
 <details>
 <summary>Ver contenido detallado de la clase</summary>
 
