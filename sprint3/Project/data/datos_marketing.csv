@@ -1,0 +1,13 @@
+visitas,fuente,dispositivo,desc,items,tiempo,carrito,compra,importe
+3,ads,mob,1,6,5,1,1,120
+1,org,desk,0,2,1,0,0,0
+4,email,mob,1,5,7,1,1,90
+2,org,mob,0,3,3,0,0,0
+5,ads,desk,0,7,8,1,1,150
+1,email,desk,0,1,2,1,0,0
+3,org,mob,1,4,4,0,0,0
+6,ads,mob,1,9,10,1,1,210
+2,email,desk,0,3,3,0,0,0
+4,org,desk,1,5,6,1,1,110
+2,ads,mob,0,2,3,0,0,0
+5,email,desk,1,8,9,1,1,180
