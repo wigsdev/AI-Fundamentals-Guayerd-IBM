@@ -1,0 +1,11 @@
+id_cliente,nombre_cliente,email,ciudad,recencia_dias,frecuencia_compras,monetario_total,ha_comprado,prob_churn,nivel_riesgo
+17,Pablo Gomez,pablo.gomez@mail.com,Villa Maria,162,1,7752,1,77.49666580507764,Alto
+29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,112,1,4283,1,77.12357200903567,Alto
+13,Ivana Sanchez,ivana.sanchez@mail.com,Carlos Paz,59,1,13188,1,75.26785019891963,Alto
+2,Nicolas Rojas,nicolas.rojas@mail.com,Carlos Paz,77,1,22150,1,74.17632883962631,Alto
+18,Ivana Torres,ivana.torres@mail.com,Carlos Paz,91,1,20544,1,72.37709433906939,Alto
+21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,128,1,20048,1,72.36921462228423,Alto
+10,Karina Acosta,karina.acosta@mail.com,Cordoba,9,1,25860,1,71.61601665737257,Alto
+36,Martina Molina,martina.molina@mail.com,Mendiolaza,122,1,15966,1,71.28327980133335,Alto
+23,Helena Fernandez,helena.fernandez@mail.com,Rio Cuarto,131,1,19825,1,71.25485727250468,Alto
+28,Rocio Silva,rocio.silva@mail.com,Cordoba,161,1,15308,1,71.23187307436444,Alto
