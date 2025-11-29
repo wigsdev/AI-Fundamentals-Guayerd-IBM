@@ -1,0 +1,101 @@
+id_cliente,recencia_dias,frecuencia_compras,monetario_total,total_articulos,fecha_alta,nombre_cliente,email,ciudad,antiguedad_dias,ticket_promedio,ha_comprado,churn,prob_churn,nivel_riesgo
+1,94,2,72448,26,2023-01-01,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,544,36224.0,1,1,0.79,Alto
+2,77,1,22150,5,2023-01-02,Nicolas Rojas,nicolas.rojas@mail.com,Carlos Paz,543,22150.0,1,0,0.305,Medio
+3,133,1,33310,15,2023-01-03,Hernan Martinez,hernan.martinez@mail.com,Rio Cuarto,542,33310.0,1,1,0.805,Alto
+5,3,4,132158,50,2023-01-05,Agustina Flores,agustina.flores@mail.com,Cordoba,540,33039.5,1,0,0.28,Bajo
+6,136,2,48878,14,2023-01-06,Uma Medina,uma.medina@mail.com,Villa Maria,539,24439.0,1,1,0.48,Medio
+8,171,1,61503,19,2023-01-08,Bruno Castro,bruno.castro@mail.com,Carlos Paz,537,61503.0,1,1,0.87,Alto
+9,95,2,41840,12,2023-01-09,Yamila Molina,yamila.molina@mail.com,Carlos Paz,536,20920.0,1,1,0.805,Alto
+10,9,1,25860,6,2023-01-10,Karina Acosta,karina.acosta@mail.com,Cordoba,535,25860.0,1,0,0.175,Bajo
+12,60,2,49518,20,2023-01-12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,533,24759.0,1,0,0.105,Bajo
+13,59,1,13188,7,2023-01-13,Ivana Sanchez,ivana.sanchez@mail.com,Carlos Paz,532,13188.0,1,0,0.385,Medio
+14,38,1,38570,14,2023-01-14,Gael Martinez,gael.martinez@mail.com,Carlos Paz,531,38570.0,1,0,0.185,Bajo
+15,14,3,45929,18,2023-01-15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,530,15309.666666666666,1,0,0.415,Medio
+16,54,1,27829,12,2023-01-16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,529,27829.0,1,0,0.32,Medio
+17,162,1,7752,2,2023-01-17,Pablo Gomez,pablo.gomez@mail.com,Villa Maria,528,7752.0,1,1,0.975,Alto
+18,91,1,20544,6,2023-01-18,Ivana Torres,ivana.torres@mail.com,Carlos Paz,527,20544.0,1,1,0.79,Alto
+19,37,2,44563,22,2023-01-19,Uma Silva,uma.silva@mail.com,Mendiolaza,526,22281.5,1,0,0.13,Bajo
+20,79,2,27723,9,2023-01-20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,525,13861.5,1,0,0.115,Bajo
+21,128,1,20048,5,2023-01-21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,524,20048.0,1,1,0.895,Alto
+23,131,1,19825,9,2023-01-23,Helena Fernandez,helena.fernandez@mail.com,Rio Cuarto,522,19825.0,1,1,0.905,Alto
+25,9,2,81830,30,2023-01-25,Karina Castro,karina.castro@mail.com,Rio Cuarto,520,40915.0,1,0,0.135,Bajo
+26,124,2,31134,15,2023-01-26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,519,15567.0,1,1,0.715,Alto
+27,0,2,27059,10,2023-01-27,Tomas Castro,tomas.castro@mail.com,Rio Cuarto,518,13529.5,1,0,0.215,Bajo
+28,161,1,15308,13,2023-01-28,Rocio Silva,rocio.silva@mail.com,Cordoba,517,15308.0,1,1,0.94,Alto
+29,112,1,4283,2,2023-01-29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,516,4283.0,1,1,0.995,Alto
+30,59,1,43475,16,2023-01-30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,515,43475.0,1,0,0.22,Bajo
+31,150,1,53828,15,2023-01-31,Felipe Ruiz,felipe.ruiz@mail.com,Villa Maria,514,53828.0,1,1,0.88,Alto
+34,170,1,57287,19,2023-02-03,Bruno Castro,bruno.castro2@mail.com,Villa Maria,511,57287.0,1,1,0.875,Alto
+36,122,1,15966,7,2023-02-05,Martina Molina,martina.molina@mail.com,Mendiolaza,509,15966.0,1,1,0.955,Alto
+37,7,1,41537,14,2023-02-06,Martina Perez,martina.perez@mail.com,Mendiolaza,508,41537.0,1,0,0.13,Bajo
+39,12,4,64786,25,2023-02-08,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,506,16196.5,1,0,0.195,Bajo
+40,26,2,64716,26,2023-02-09,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,505,32358.0,1,0,0.095,Bajo
+41,114,2,40804,18,2023-02-10,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,504,20402.0,1,1,0.725,Alto
+42,43,4,60317,24,2023-02-11,Tomas Flores,tomas.flores@mail.com,Alta Gracia,503,15079.25,1,0,0.135,Bajo
+43,168,1,16084,9,2023-02-12,Lucas Perez,lucas.perez@mail.com,Mendiolaza,502,16084.0,1,1,0.97,Alto
+46,95,2,18292,7,2023-02-15,Agustina Martinez,agustina.martinez@mail.com,Alta Gracia,499,9146.0,1,1,0.795,Alto
+48,137,2,26403,16,2023-02-17,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,497,13201.5,1,1,0.73,Alto
+49,103,4,71321,32,2023-02-18,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,496,17830.25,1,1,0.625,Medio
+51,107,2,9800,10,2023-02-20,Agustina Gomez,agustina.gomez@mail.com,Rio Cuarto,494,4900.0,1,1,0.86,Alto
+52,31,3,90522,29,2023-02-21,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,493,30174.0,1,0,0.065,Bajo
+54,95,1,21270,13,2023-02-23,Uma Herrera,uma.herrera@mail.com,Alta Gracia,491,21270.0,1,1,0.89,Alto
+55,14,2,28782,19,2023-02-24,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,490,14391.0,1,0,0.35,Medio
+56,1,5,90701,31,2023-02-25,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,489,18140.2,1,0,0.205,Bajo
+57,22,2,20436,7,2023-02-26,Julian Acosta,julian.acosta@mail.com,Rio Cuarto,488,10218.0,1,0,0.605,Medio
+58,113,2,21839,10,2023-02-27,Karina Acosta,karina.acosta2@mail.com,Rio Cuarto,487,10919.5,1,1,0.75,Alto
+61,29,2,67959,19,2023-03-02,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,484,33979.5,1,0,0.185,Bajo
+62,9,2,19107,9,2023-03-03,Guadalupe Romero,guadalupe.romero@mail.com,Carlos Paz,483,9553.5,1,0,0.35,Medio
+64,24,2,40218,18,2023-03-05,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,481,20109.0,1,0,0.295,Bajo
+66,99,2,45616,17,2023-03-07,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,479,22808.0,1,1,0.665,Medio
+67,71,1,35240,13,2023-03-08,Ivana Romero,ivana.romero@mail.com,Alta Gracia,478,35240.0,1,0,0.235,Bajo
+69,20,2,64300,17,2023-03-10,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,476,32150.0,1,0,0.32,Medio
+72,68,4,65001,24,2023-03-13,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,473,16250.25,1,0,0.085,Bajo
+75,44,2,29909,14,2023-03-16,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,470,14954.5,1,0,0.095,Bajo
+78,43,1,23132,8,2023-03-19,Emilia Alvarez,emilia.alvarez@mail.com,Villa Maria,467,23132.0,1,0,0.29,Bajo
+80,17,1,24708,8,2023-03-21,Gael Ruiz,gael.ruiz@mail.com,Mendiolaza,465,24708.0,1,0,0.185,Bajo
+81,17,2,64502,28,2023-03-22,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,464,32251.0,1,0,0.13,Bajo
+82,96,1,7710,3,2023-03-23,Lucas Lopez,lucas.lopez@mail.com,Alta Gracia,463,7710.0,1,1,1.0,Alto
+83,126,1,16531,9,2023-03-24,Franco Gomez,franco.gomez@mail.com,Rio Cuarto,462,16531.0,1,1,0.93,Alto
+84,140,2,67575,25,2023-03-25,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,461,33787.5,1,1,0.585,Medio
+86,11,2,34326,14,2023-03-27,Diego Torres,diego.torres@mail.com,Cordoba,459,17163.0,1,0,0.15,Bajo
+88,132,1,36639,13,2023-03-29,Felipe Castro,felipe.castro@mail.com,Villa Maria,457,36639.0,1,1,0.815,Alto
+90,151,1,26593,10,2023-03-31,Guadalupe Ruiz,guadalupe.ruiz@mail.com,Rio Cuarto,455,26593.0,1,1,0.73,Alto
+91,31,2,57386,21,2023-04-01,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,454,28693.0,1,0,0.135,Bajo
+92,40,2,48867,12,2023-04-02,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,453,24433.5,1,0,0.2,Bajo
+93,117,1,35760,12,2023-04-03,Gael Rojas,gael.rojas@mail.com,Alta Gracia,452,35760.0,1,1,0.815,Alto
+96,0,1,28175,14,2023-04-06,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,449,28175.0,1,0,0.195,Bajo
+98,112,1,10864,5,2023-04-08,Camila Castro,camila.castro@mail.com,Cordoba,447,10864.0,1,1,0.92,Alto
+100,58,3,29883,15,2023-04-10,Agustina Lopez,agustina.lopez@mail.com,Cordoba,445,9961.0,1,0,0.17,Bajo
+4,541,0,0,0,2023-01-04,Uma Martinez,uma.martinez@mail.com,Carlos Paz,541,0.0,0,1,0.98,Alto
+7,538,0,0,0,2023-01-07,Emilia Castro,emilia.castro@mail.com,Rio Cuarto,538,0.0,0,1,0.99,Alto
+11,534,0,0,0,2023-01-11,Helena Sanchez,helena.sanchez@mail.com,Villa Maria,534,0.0,0,1,0.96,Alto
+22,523,0,0,0,2023-01-22,Franco Rodriguez,franco.rodriguez@mail.com,Alta Gracia,523,0.0,0,1,1.0,Alto
+24,521,0,0,0,2023-01-24,Nicolas Silva,nicolas.silva@mail.com,Villa Maria,521,0.0,0,1,1.0,Alto
+32,513,0,0,0,2023-02-01,Martina Alvarez,martina.alvarez@mail.com,Mendiolaza,513,0.0,0,1,1.0,Alto
+33,512,0,0,0,2023-02-02,Franco Acosta,franco.acosta@mail.com,Rio Cuarto,512,0.0,0,1,1.0,Alto
+35,510,0,0,0,2023-02-04,Yamila Lopez,yamila.lopez@mail.com,Mendiolaza,510,0.0,0,1,1.0,Alto
+38,507,0,0,0,2023-02-07,Franco Herrera,franco.herrera@mail.com,Alta Gracia,507,0.0,0,1,1.0,Alto
+44,501,0,0,0,2023-02-13,Camila Romero,camila.romero@mail.com,Carlos Paz,501,0.0,0,1,1.0,Alto
+45,500,0,0,0,2023-02-14,Olivia Castro,olivia.castro@mail.com,Rio Cuarto,500,0.0,0,1,1.0,Alto
+47,498,0,0,0,2023-02-16,Franco Silva,franco.silva@mail.com,Alta Gracia,498,0.0,0,1,1.0,Alto
+50,495,0,0,0,2023-02-19,Lucas Diaz,lucas.diaz@mail.com,Carlos Paz,495,0.0,0,1,1.0,Alto
+53,492,0,0,0,2023-02-22,Emilia Rojas,emilia.rojas@mail.com,Mendiolaza,492,0.0,0,1,1.0,Alto
+59,486,0,0,0,2023-02-28,Emilia Ruiz,emilia.ruiz@mail.com,Villa Maria,486,0.0,0,1,1.0,Alto
+60,485,0,0,0,2023-03-01,Uma Gonzalez,uma.gonzalez@mail.com,Alta Gracia,485,0.0,0,1,1.0,Alto
+63,482,0,0,0,2023-03-04,Pablo Medina,pablo.medina@mail.com,Cordoba,482,0.0,0,1,1.0,Alto
+65,480,0,0,0,2023-03-06,Tomas Perez,tomas.perez@mail.com,Alta Gracia,480,0.0,0,1,1.0,Alto
+68,477,0,0,0,2023-03-09,Uma Torres,uma.torres@mail.com,Villa Maria,477,0.0,0,1,1.0,Alto
+70,475,0,0,0,2023-03-11,Julian Diaz,julian.diaz@mail.com,Carlos Paz,475,0.0,0,1,1.0,Alto
+71,474,0,0,0,2023-03-12,Valentina Alvarez,valentina.alvarez@mail.com,Villa Maria,474,0.0,0,1,1.0,Alto
+73,472,0,0,0,2023-03-14,Yamila Diaz,yamila.diaz@mail.com,Alta Gracia,472,0.0,0,1,1.0,Alto
+74,471,0,0,0,2023-03-15,Zoe Flores,zoe.flores@mail.com,Carlos Paz,471,0.0,0,1,1.0,Alto
+76,469,0,0,0,2023-03-17,Pablo Perez,pablo.perez@mail.com,Mendiolaza,469,0.0,0,1,1.0,Alto
+77,468,0,0,0,2023-03-18,Bruno Alvarez,bruno.alvarez@mail.com,Villa Maria,468,0.0,0,1,1.0,Alto
+79,466,0,0,0,2023-03-20,Olivia Perez,olivia.perez@mail.com,Carlos Paz,466,0.0,0,1,1.0,Alto
+85,460,0,0,0,2023-03-26,Agustina Martinez,agustina.martinez2@mail.com,Mendiolaza,460,0.0,0,1,1.0,Alto
+87,458,0,0,0,2023-03-28,Bautista Lopez,bautista.lopez@mail.com,Alta Gracia,458,0.0,0,1,1.0,Alto
+89,456,0,0,0,2023-03-30,Karina Martinez,karina.martinez@mail.com,Rio Cuarto,456,0.0,0,1,1.0,Alto
+94,451,0,0,0,2023-04-04,Elena Sanchez,elena.sanchez@mail.com,Mendiolaza,451,0.0,0,1,1.0,Alto
+95,450,0,0,0,2023-04-05,Olivia Perez,olivia.perez2@mail.com,Rio Cuarto,450,0.0,0,1,1.0,Alto
+97,448,0,0,0,2023-04-07,Uma Alvarez,uma.alvarez@mail.com,Cordoba,448,0.0,0,1,1.0,Alto
+99,446,0,0,0,2023-04-09,Bruno Molina,bruno.molina@mail.com,Villa Maria,446,0.0,0,1,0.995,Alto
