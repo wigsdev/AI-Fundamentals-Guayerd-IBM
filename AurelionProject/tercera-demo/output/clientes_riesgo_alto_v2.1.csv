@@ -1,0 +1,35 @@
+id_cliente,nombre_cliente,email,ciudad,recencia_dias,frecuencia_compras,monetario_total,ha_comprado,prob_churn,nivel_riesgo
+99,Bruno Molina,bruno.molina@mail.com,Villa Maria,446,0,0,0,97.83100003255221,Alto
+97,Uma Alvarez,uma.alvarez@mail.com,Cordoba,448,0,0,0,97.82421937035949,Alto
+95,Olivia Perez,olivia.perez2@mail.com,Rio Cuarto,450,0,0,0,97.81741798357567,Alto
+94,Elena Sanchez,elena.sanchez@mail.com,Mendiolaza,451,0,0,0,97.8140094995988,Alto
+89,Karina Martinez,karina.martinez@mail.com,Rio Cuarto,456,0,0,0,97.7968888710678,Alto
+87,Bautista Lopez,bautista.lopez@mail.com,Alta Gracia,458,0,0,0,97.7900039805216,Alto
+85,Agustina Martinez,agustina.martinez2@mail.com,Mendiolaza,460,0,0,0,97.78309806189623,Alto
+79,Olivia Perez,olivia.perez@mail.com,Carlos Paz,466,0,0,0,97.76225352502934,Alto
+77,Bruno Alvarez,bruno.alvarez@mail.com,Villa Maria,468,0,0,0,97.75526288077621,Alto
+76,Pablo Perez,pablo.perez@mail.com,Mendiolaza,469,0,0,0,97.75175956169487,Alto
+74,Zoe Flores,zoe.flores@mail.com,Carlos Paz,471,0,0,0,97.74473689091677,Alto
+73,Yamila Diaz,yamila.diaz@mail.com,Alta Gracia,472,0,0,0,97.74121752370772,Alto
+71,Valentina Alvarez,valentina.alvarez@mail.com,Villa Maria,474,0,0,0,97.73416268679358,Alto
+70,Julian Diaz,julian.diaz@mail.com,Carlos Paz,475,0,0,0,97.73062720151597,Alto
+68,Uma Torres,uma.torres@mail.com,Villa Maria,477,0,0,0,97.723540058313,Alto
+65,Tomas Perez,tomas.perez@mail.com,Alta Gracia,480,0,0,0,97.71286879456706,Alto
+63,Pablo Medina,pablo.medina@mail.com,Cordoba,482,0,0,0,97.70572749462283,Alto
+60,Uma Gonzalez,uma.gonzalez@mail.com,Alta Gracia,485,0,0,0,97.69497470119782,Alto
+59,Emilia Ruiz,emilia.ruiz@mail.com,Villa Maria,486,0,0,0,97.6913795135617,Alto
+53,Emilia Rojas,emilia.rojas@mail.com,Mendiolaza,492,0,0,0,97.66969314014194,Alto
+50,Lucas Diaz,lucas.diaz@mail.com,Carlos Paz,495,0,0,0,97.65877550779119,Alto
+47,Franco Silva,franco.silva@mail.com,Alta Gracia,498,0,0,0,97.6478079575019,Alto
+45,Olivia Castro,olivia.castro@mail.com,Rio Cuarto,500,0,0,0,97.64046841815764,Alto
+44,Camila Romero,camila.romero@mail.com,Carlos Paz,501,0,0,0,97.63679027260405,Alto
+38,Franco Herrera,franco.herrera@mail.com,Alta Gracia,507,0,0,0,97.61460362814137,Alto
+35,Yamila Lopez,yamila.lopez@mail.com,Mendiolaza,510,0,0,0,97.6034342310688,Alto
+33,Franco Acosta,franco.acosta@mail.com,Rio Cuarto,512,0,0,0,97.59595964128678,Alto
+32,Martina Alvarez,martina.alvarez@mail.com,Mendiolaza,513,0,0,0,97.59221382436789,Alto
+24,Nicolas Silva,nicolas.silva@mail.com,Villa Maria,521,0,0,0,97.56204167720087,Alto
+22,Franco Rodriguez,franco.rodriguez@mail.com,Alta Gracia,523,0,0,0,97.55444122389927,Alto
+11,Helena Sanchez,helena.sanchez@mail.com,Villa Maria,534,0,0,0,97.51222404998728,Alto
+7,Emilia Castro,emilia.castro@mail.com,Rio Cuarto,538,0,0,0,97.496696936778,Alto
+4,Uma Martinez,uma.martinez@mail.com,Carlos Paz,541,0,0,0,97.48498967692426,Alto
+29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,112,1,4283,1,71.52993704084993,Alto
